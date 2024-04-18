@@ -56,9 +56,9 @@ Aortan dimensio                         Mittaushetki        Keneltä mitataan
 --------------------------------------  ------------------  ------------------------
 Aortan annulus                          Keskisystole        Esim. TAVI-leikattavat
   Aortan tyvi                           Loppudiastole       **Aina**
-  Sinotubulaarijunktio                  Loppudiastole       Jos aortan dilataatio
-  Nouseva tubulaarinen aortta           Loppudiastole       Jos aortan dilataatio
-  Aortan kaari                          (ei ohjeistusta)    Jos aortan dilataatio
+  Sinotubulaarijunktio                  Loppudiastole       Vähintään silloin jos aortan dilataatio
+  Nouseva tubulaarinen aortta           Loppudiastole       Vähintään silloin jos aortan dilataatio
+  Aortan kaari                          (ei ohjeistusta)    Vähintään silloin jos aortan dilataatio
 
 <br />
 
