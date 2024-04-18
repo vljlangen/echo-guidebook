@@ -1,0 +1,26 @@
+# Projektiot
+
+UKG:ssa esiin saatavat näkymät aiheuttavat tulkintavaikeuksia vain aivan alkuvaiheen aloittelijoille.
+
+UKG suoritetaan vain muutamasta standardinäkymästä eli projektiosta, joissa rakenteet näkyvät helposti aina "omilla paikoillaan". Projektiot oppii nopeasti, minkä jälkeen sydämen tavallisten rakenteiden - kuten läppien - hahmottaminen ei tuota minkäänlaisia vaikeuksia.
+
+Projektioille on omat loogiset ja helpot kirjainlyhenteensä, jotka on syytä oppia. 
+
+## PSLAX
+
+Parasternaalinen pitkittäisprojektio.
+
+<br />
+
+
+(ref:pslax) Parasternaalinen pitkittäisprojektio (PSLAX).
+
+```{r pslax, out.width = '100%', echo=FALSE, fig.cap="(ref:pslax)"}
+ knitr::include_graphics("images/pslax.jpg")
+```
+
+
+<br/>
+<br/>
+<br/>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://vldesign.kapsi.fi/echo/">UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.linkedin.com/in/ville-langen">Ville Langén</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>

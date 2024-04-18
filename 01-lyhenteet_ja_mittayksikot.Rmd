@@ -1,0 +1,71 @@
+# Lyhenteet ja mittayksiköt
+
+Seuraavassa taulukossa \@ref(tab:lyhenteita) näytetään UKG:ssa käytettävien lyhenteiden ohella myös eri mittauksille ne mittayksiköt, joita kokemuksestani Turun seudulla tyypillisimmin käytetään. Listan lopussa on myös muutamia sellaisia UKG-löydöksiä, joita saatetaan kuvata lausunnossa lyhentein.
+
+Taulukon alla on laajempaa [diskussiota aiheesta](#lyhenteet_lisatietoa).
+
+**Tarkoitus ei ole päntätä mitään tästä taulukosta ulkoa; lyhenteet oppii kutakin rakennetta opetellessa tämän oppaan myöhemmissä kappaleissa. Taulukko voi toimia kuitenkin apuna ensimmäisiä lausuntoja laatiessasi.**
+
+<br />
+
+```{r lyhenteita, tidy=FALSE, echo=FALSE}
+library(tidyverse)
+ 
+
+tibble::tribble(
+                                  ~`Kuvattava.rakenne/löydös`,                 ~Lyhenne, ~Mittayksikkö,                                                              ~Huomioitavaa,
+                                               "Vasen kammio",                     "LV",          "mm",                                                "Mittayksikköä ei ilmaista",
+                            "Vasemman kammion ejektiofraktio",                   "LVEF",           "%",        "Esim. \"EF 50 %\" riittää (vrt. RVEF ei ole kliinisessä käytössä)",
+                   "Kammioseptum (*interventricular septum*)",                    "IVS",          "mm",                "Voi kirjata:\"Seinämät 10/10\" (ensin ilmaistu on septum)",
+                                                  "Takaseinä",                     "PW",          "mm",                                                               "Vrt. yllä.",
+                              "Aortta (yleensä: aortan tyvi)",                     "Ao",          "mm",                                                "Mittayksikköä ei ilmaista",
+                                              "Vasen eteinen",                     "LA",          "mm",                                                "Mittayksikköä ei ilmaista",
+                           "Mitraalisisäänvirtauksen E-aalto",                      "E",         "m/s",                                                "Mittayksikköä ei ilmaista",
+                           "Mitraalisisäänvirtauksen A-aalto",                      "A",         "m/s",                                                "Mittayksikköä ei ilmaista",
+                          "Mitraaliläpän annuluksen E'-aalto",      "E' (tai e'), lat.",         "m/s",       "1) Mittayksikköä ei ilmaista; 2) yleisimmin mittaus lateraalisesti",
+                                          "E:n ja E':n suhde",   "E/E' (tai E/e') lat.",           "-",                                        "Yleisimmin mittaus lateraalisesti",
+                        "Läppästenoosissa mitattu gradientti",                      "-",        "mmHg",         "Ilmauksessa “10/5 mmHg” jälkimmäinen luku kuvaa keskigradienttia",
+         "Aorttaläpän avautumispinta-ala (*aortic valve area*)",                    "AVA",         "cm2",                                                                         " ",
+                          "Kiihtyvyysalueen säde (vuodoissa)",                   "PISA",          "cm",                                                "Mittayksikköä ei ilmaista",
+                              "Vuodon kaula (*vena contracta*)",                     "VC",          "cm",                                                "Mittayksikköä ei ilmaista",
+  "Vuotoaukon pinta-ala (*effective regurgitant orifice area*)",                   "EROA",         "cm2",                                                                         " ",
+          "Trikuspidaaliläppäannuluksen systolinen ekskursio",                  "TAPSE",          "mm",                                                "Mittayksikköä ei ilmaista",
+                            "Oikean kammion basaalinen mitta",                   "RVD1",          "mm",                                                "Mittayksikköä ei ilmaista",
+                                  "Oikean kammion keskimitta",                   "RVD2",          "mm",                                                "Mittayksikköä ei ilmaista",
+             "Trikuspidaaliläpän vuodosta mitattu gradientti",       "RV/RA-gradientti",        "mmHg",                                                                         "Yhtä hyvin käy:\"Trikuspidaaligradientti 25 mmHg\"",
+                                              "Oikea eteinen",                     "RA",          "mm",                                                "Mittayksikköä ei ilmaista",
+                                            "Alaonttolaskimo",                    "IVC",          "mm", "Yksi tapa ilmaista:\"20/10\" (jälkimmäinen viittaa arvoon inspiriumissa)",
+                                 "Systolinen pulmonaalipaine",                   "sPAP",        "mmHg",                                                                         " ",
+                                                           " ",                       " ",            " ",                                                                         " ",
+                                                          "*",                      "*",           "*",                                                                        "*",
+                                                           " ",                       " ",            " ",                                                                         " ",
+                                        "Mitraaliläpän vuoto",                     "MR",            " ",                                                                         " ",
+                                     "Mitraaliläpän stenoosi",                     "MS",            " ",                                                                         " ",
+                                       "Aorttaläpän stenoosi",                     "AS",            " ",                                                                         " ",
+                                          "Aorttaläpän vuoto",                     "AR",            " ",                       "Joissakin laitteissa:\"AI\" (*aortic insufficiency*)"
+  ) -> lyhenteita_data
+
+
+knitr::kable((lyhenteita_data), booktabs = TRUE,
+caption = 'Yleisimpiä UKG-lausunnossa esiintyviä lyhenteitä.')
+
+
+```
+
+<br>
+
+## Lyhenteet: lisätietoa {#lyhenteet_lisatietoa}
+
+UKG-lausunnoissa vilisee kirjainlyhenteitä, jotka on johdettavissa suoraan kuvattavien rakenteiden nimistä. Nämä lyhenteet täytyy osata, jotta pystyy sanelemaan tekemänsä UKG-tutkimukset ja tulkitsemaan muiden laatimia lausuntoja. Lisäksi projektioille on omat vastaavat loogiset kirjainlyhenteensä, jotka on syytä oppia. Käytettäviä lyhenteitä on yhteensä parikymmentä kappaletta, ja ne kaikki ovat loogisia ja helppoja.
+
+UKG:ta harjoittelevat kysyvät lisäksi usein, mitä mittayksikköä missäkin mittauksessa tulee käyttää. Kokemukseni on, että mittayksiköiden käyttö ei ole ihan johdonmukaista - esim. tiettyjä nopeuksia kuvataan m/s- ja toisia cm/s-mittayksiköllä.
+
+Myös tiettyjä löydöksiä saatetaan kuvata lyhentein. Tämä ei ehkä ole luettavuuden kannalta paras ratkaisu, mutta UKG-lausuntoja lienee ylipäänsä vaikea lukea, jos ei itse UKG:ta tee. En sulkisi taulukossa \@ref(tab:lyhenteita) esitettyjen löydösten lyhenteiden käyttöä pois, jos lausunnon lopussa on pieni yhteenveto ihmisen luettavalla kielellä - suosittelen tällaista yhteenvetoa ylipäänsä voimakkaasti.
+
+<br/> <br/> <br/>
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+
+<a property="dct:title" rel="cc:attributionURL" href="https://vldesign.kapsi.fi/echo/">UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.linkedin.com/in/ville-langen">Ville Langén</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/></a>
+
+</p>

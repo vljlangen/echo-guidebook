@@ -1,0 +1,70 @@
+# IVC:n mittaus
+
+## 2D-kuvamittaus
+
+Suosittelen mittaamaan alaonttolaskimon (IVC:n) 2D-kuvasta. Usein M-moodista ei saa aivan kohtisuoraa leikettä IVC:stä, ja tällaisen leikkeen aikaansaamiseen menee suotta aikaa varsinkin aloittelijalta.
+
+IVC:tä ei tulisi mitata aivan maksalaskimon kohdalta vaan siitä n. 1-3 cm "jalkoihin päihin", kuten alla olevassa kuvassa (Fig. \@ref(fig:ivc)) demonstroidaan.
+
+IVC:stä otetaan kuvatallenne sekä ekspiriumin ja inspiriumin aikana. Erikseen ei tarvitse pohtia kumpi hengityksen vaihe olikaan menossa: tulee yksinkertaisesti mitata IVC samasta kohtaa laajimmillaan ja kapeimmillaan.
+
+Suosittelen, että yrität saada hieman näkymää myös oikeaan eteiseen (Fig. \@ref(fig:ivc)). IVC yhdistyy oikeaan eteiseen, jolloin voit olla varma, että olet ottamassa mittauksia juuri IVC:stä. Vihje: voit vaihdella näkymää IVC:n ja vatsa-aortan välillä kallistelemalla anturia vuorotellen maksaa (IVC-näkymä) tai pernaa (aorttanäkymä) kohden.
+
+
+<br />
+
+(ref:ivc) Alaonttolaskimon (IVC:n) mittaaminen Caliper-nappulalla.
+
+```{r ivc, out.width = '100%', echo=FALSE, fig.cap="(ref:ivc)", fig.margin = TRUE}
+ knitr::include_graphics("images/ivc.jpg")
+```
+
+<br />
+
+
+## CVP:n päättely IVC:stä
+
+UKG:n kattojärjestöt ovat [esitelleet hyvin yksinkertaisen periaatteen](https://www.onlinejase.com/article/S0894-7317(10)00434-7/fulltext), jolla CVP:n saa hetkessä pääteltyä IVC:stä. Tämä periaate esitellään seuraavassa taulukossa.
+
+
+<br />
+
+```{r cvp, tidy=FALSE, echo=FALSE}
+library(tidyverse)
+tibble::tribble(
+                
+        
+   ~"Ehto",                                                     ~"CVP (mmHg)",     ~"Tulkinta",
+                                 
+   "IVC ≤ 2.1 cm ja supistuu 'sniffatessa' > 50 %",              "3",               "CVP normaali",
+   "IVC > 2.1 cm ja supistuu 'sniffatessa' < 50 %",              "15",              "CVP suuri",
+   "kaikki muut mahdolliset mittausskenaariot",                  "8",              "CVP kohtalainen"
+   
+
+  ) -> cvp_data
+
+knitr::kable((cvp_data), booktabs = TRUE,
+caption = 'CVP:n päättely IVC:stä.')
+
+
+```
+
+
+<br />
+
+Esimerkkejä:
+
+Löydös                            CVP (mmHg)
+--------------------------------  ------------
+IVC 1.5 cm ja supistuu > 50 %     3 
+IVC 2.7 cm ja supistuu < 50 %     15         
+IVC 1.5 cm mutta supistuu < 50 %  8          
+IVC 2.7 mutta supistuu > 50 %     8          
+
+<br/>
+<br/>
+<br/>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://vldesign.kapsi.fi/echo/">UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.linkedin.com/in/ville-langen">Ville Langén</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
+
+          

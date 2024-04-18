@@ -1,0 +1,33 @@
+---
+title: "UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot"
+author: "Ville Langén"
+#site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+site: bookdown::bookdown_site
+---
+
+# Alkusanat
+
+Tässä oppaassa käsitellään UKG:n suoritusta Philips CX50 -laitteella. Periaatteet ovat kuitenkin samat kaikissa UKG-laitteissa, joten oppi on varsin universaalia. Kun oppii käyttämään yhtä UKG-laitetta, osaa perustoiminnot kaikissa eri laitteissa, jopa laitteen valmistajasta riippumatta.
+
+Isoja valmistajia on kaksi: Philips ja GE. Usein on niin, että kaikki sairaalan tai ainakin tulosalueen UKG-laitteet ovat jommankumman näistä valmistamia. Kummankin firman laitteilla on omat hyvät puolensa ja omat kannattajansa.
+
+Opas on suunnattu eritoten aloitteleville echoajille. Sisältö perustuu allekirjoittaneen kokemuksiin osasto- ja poliklinikkatyön kentältä. Tarjoan oppaassa omia näkemyksiäni siitä, miten UKG:n eri osa-alueet on helpointa ymmärtää ja oppia. Erikseen on joissakin kohdissa lähdeviittauksia muiden tieteellisiin julkaisuihin. **Huomaathan, että opas ei ole hoitosuositus, ja lukija käyttää opasta oppimisen tukenaan täysin omalla vastuullaan.**
+
+<br/>
+<br/>
+
+
+Internetissä on runsaasti lisää sisältöä UKG:n opetteluun. Alla joitakin linkkejä:
+
+[The Echo Lady: parasternaalinen pitkittäisprojektio](https://www.youtube.com/watch?v=8uLaxH8mSew) <br/>
+[EchoVTorials: parasternaalinen pitkittäisprojektio](https://www.youtube.com/watch?v=aXworpaecjM) <br/>
+[Echopedia: vasemman kammion mittojen viitealueita](https://www.echopedia.org/index.php?title=Left_Ventricular_Dimensions) <br/>
+[Echopedia: diastoliikka](https://www.echopedia.org/index.php?title=Diastolic_Function)
+
+<br/>
+<br/>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://vldesign.kapsi.fi/echo/">UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.linkedin.com/in/ville-langen">Ville Langén</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>

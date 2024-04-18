@@ -1,0 +1,220 @@
+# LV:n mitat ja LVEF M-moodilla
+
+## M-moodi: tarvittavat nappulat
+
+Jos näkyvyys on hyvä ja tutkittavan sydämen asento kuvaustekniikkaa ajatellen sopiva (Fig. \@ref(fig:mmoodimallikuva)), saadaan M-moodimittauksella nopeasti paljon hyödyllistä tietoa tutkittavan sydämestä.
+
+M-moodin aikaansaamiseksi ja sillä mittausten tekemiseksi tarvitaan alla olevassa kuvassa osoitettuja nappuloita (Fig. \@ref(fig:ukglaitemmode)).
+
+<br />
+
+(ref:ukglaitemmode) M-moodin aikaansaamiseksi tarvittavat nappulat ja pallohiiri.
+
+```{r ukglaitemmode, out.width = '100%', echo=FALSE, fig.cap="(ref:ukglaitemmode)", fig.margin = TRUE}
+ knitr::include_graphics("images/ukglaite_mmode.jpg")
+```
+
+<br />
+
+
+## Vain hyvä PSLAX M-moodille
+
+UKG-laite käynnistyy tavanomaisessa 2D-moodissa. Kyseisessä moodissa aivan ensimmäiseksi haetaan sydämestä hyvä PSLAX-projektio (Fig. \@ref(fig:mmoodimallikuva)). Heikkotasoista kuvaa ei pysty käyttämään luotettavasti M-moodimittauksiin.
+
+Tämän jälkeen valitaan sopiva leikkauslinja liikuttelemalla kursoria UKG-laitteen ***pallohiirellä*** (track ball). Tarkasteltava leikkauslinja asetetaan siten, että se katkaisee kohtisuorasti vasemman kammion heti mitraaliläpän avautuvien purjeiden kärkien distaalipuolelta (Fig. \@ref(fig:mmoodimallikuva)).
+
+
+<br />
+
+(ref:mmoodimallikuva) Laadukas PSLAX-projektio ja oikeaoppinen katkaisulinja.
+
+```{r mmoodimallikuva, out.width = '100%', echo=FALSE, fig.cap="(ref:mmoodimallikuva)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmoodi_mallikuva.jpg")
+```
+
+<br />
+
+
+
+## Pysty sydän - ei M-moodia
+
+Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysydan)), M-moodi ei katkaise vasenta kammiota kohtisuoraan, jolloin tuloksena on **liian vino leike vasemmasta kammiosta**. Tämä mm. yliarvioi vasemman kammion poikkimittaa. Jos kunnollista kohtisuoraa leikettä ei saa aikaiseksi, ei kannata haaskata aikaa M-moodin kanssa vaan käyttää vaihtoehtoisia mittaustapoja. Niistä lisää jäljempänä.
+
+<br />
+
+(ref:pystysydan) Tämä ei ole kunnon PSLAX-projektio - älä yritä tehdä tällaisesta projektiosta mittauksia M-moodilla.
+
+```{r pystysydan, out.width = '100%', echo=FALSE, fig.cap="(ref:pystysydan)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmoodi_pystysydan.jpg")
+```
+
+<br />
+
+
+## M-moodista mitattavat suureet
+
+Jos riittävän laadukas PSLAX-projektio ja sopiva katkaisulinja on saatu näkyviin, painetaan UKG-laitteesta nappulaa ***M-mode***.
+
+M-moodi saa rullata eteenpäin, ja jos näkymä näyttää teknisesti riittävän laadukkaalta mittauksia varten, kuva pysäytetään UKG-laitteen nappulalla ***Freeze*** (Fig. \@ref(fig:mmoodiperusnakyma)).
+
+Varsinaiset mittaukset pysäytetystä kuvasta tehdään valitsemalla aina ensin mitattava suure (esim. vasemman kammion poikkimitta diastolessa jne.) nappulaa ***Calc*** painamalla avautuvista valikoista. Tästä kerrotaan tarkemmin jäljempänä.
+
+<br />
+
+(ref:mmoodiperusnakyma) M-moodin perusnäkymä PSLAX-projektiossa.
+
+```{r mmoodiperusnakyma, out.width = '100%', echo=FALSE, fig.cap="(ref:mmoodiperusnakyma)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmoodiperusnakyma.jpg")
+```
+
+<br />
+
+
+### RV:n mittaus
+
+Oikea kammio (RV) hyvin harvoin mitataan tässä yhteydessä ja projektiossa, mutta täydellisyyden vuoksi esitetään myös RV:n mittaus M-moodista.
+
+UKG-laitteen ***Calc***-nappulasta löytyy valikon ***Main Menu*** alta valikko ***Dimensions***. Valitse se, ja edelleen ***RVIDd (MM)***. Valinnat ja itse mittaus kuvasta tehdään pallohiirellä ja hiiren vasemmalla nappulalla.
+
+Mittaa RV alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmoderv)).
+
+
+<br />
+
+(ref:mmoderv) Oikean kammion (RV) mittaus M-moodilla - harvoin tehty mittaus.
+
+```{r mmoderv, out.width = '100%', echo=FALSE, fig.cap="(ref:mmoderv)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmoderv.jpg")
+```
+
+<br />
+
+**Huom! Älä mittaa "veren päältä veren päälle" (siis mustan signaalin päältä mustan päälle) tässä tai muussakaan yhteydessä, vaan kudoksen signaalista (harmaasta) seuraavaan (ks. Fig. \@ref(fig:mmodervmagnified) ja Fig. \@ref(fig:mmodervmagnified2) alla).**
+
+<br />
+
+(ref:mmodervmagnified) Muista aina mitata kudoksen päältä kudoksen päälle (sydämen kudos näkyy harmaana, ei mustana).
+
+```{r mmodervmagnified, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodervmagnified)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodervmagnified.jpg")
+```
+
+<br />
+
+
+(ref:mmodervmagnified2) Älä mittaa "veren päältä veren päälle" (veri näkyy mustana signaalina).
+
+```{r mmodervmagnified2, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodervmagnified2)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodervmagnified2.jpg")
+```
+
+<br />
+
+
+
+
+### IVS:n mittaus
+
+Yleisimmin mittaus aloitetaan nimenomaan kammioseptumista (IVS:sta) eli valitsemalla ensin ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> IVSd (MM)***. Jos kuitenkin aloitit mittaamalla RV:n, UKG-laite siirtyy automaattisesti IVSd MM:n kohdalle.
+
+Mittaa IVS alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodeivs)).
+
+<br />
+
+(ref:mmodeivs) Kammioseptumin (IVS) mittaus M-moodilla.
+
+```{r mmodeivs, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodeivs)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodeivs.jpg")
+```
+
+<br />
+
+
+
+### LV:n mittaus (diastole)
+
+Jos mittasit edellä IVS:n, UKG-laite siirtyy suoraan vasemman kammion diastolisen mitan (LVIDd) kohdalle.
+
+Joskus kammioseptum demarkoituu niin huonosti M-moodissa, että tahdot aloittaa M-moodimittaukset suoraan LVIDd:n mittaamisella. Siinä tapauksessa valitaan ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> LVIDd (MM)***, ja jätetään IVSd (ja RVIDd) tässä yhteydessä mittaamatta.
+
+Mittaa LVIDd alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvidd)).
+
+<br />
+
+(ref:mmodelvidd) Vasemman kammion diastolisen läpimitan (LVIDd) mittaus M-moodilla.
+
+```{r mmodelvidd, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodelvidd)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodelvidd.jpg")
+```
+
+<br />
+
+
+### LVPW:n mittaus
+
+Jos mittasit edellä LVIDd:n, UKG-laite siirtyy suoraan vasemman kammion takaseinän (LVPWd) kohdalle.
+
+Muussa tapauksessa voit hakea sen ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> LVPWd (MM)***.
+
+
+Mittaa LVPWd alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvpwd)).
+
+<br />
+
+(ref:mmodelvpwd) Vasemman kammion takaseinän (LVPWd) mittaus M-moodilla.
+
+```{r mmodelvpwd, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodelvpwd)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodelvpwd.jpg")
+```
+
+<br />
+
+
+### LV:n mittaus (systole)
+
+Jos mittasit edellä LVPWd:n, UKG-laite siirtyy suoraan vasemman kammion mittaukseen systolessa (LVIDs).
+
+Muussa tapauksessa voit hakea sen ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> LVIDs (MM)***.
+
+
+Mittaa LVIDs alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvids)).
+
+<br />
+
+(ref:mmodelvids) Vasemman kammion systolisen läpimitan (LVIDs) mittaus M-moodilla.
+
+```{r mmodelvids, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodelvids)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodelvids.jpg")
+```
+
+<br />
+
+PSLAX-projektiossa M-moodissa tehtävistä mittauksista viimeinen on LVIDs-mitta. Tämän mitan saatuaan UKG-laite laskee ja ilmaisee "jakoviivan" alla keskeisiä laskennallisia suureita (ks. alla Fig. \@ref(fig:mmodelvidsmagnified)), joita ovat EDV, EF, ESV, FS, IVS/LVPW sekä LV Mass (Cubed).
+
+**Turun seudulla on tyypillistä ilmaista laskennallisista suureista tässä yhteydessä itse mittojen lisäksi vain EF.**
+
+Mileage may vary - eri sairaanhoitopiireissä voi olla erilaiset käytännöt lausunnon laatimisessa. Jopa sana UKG on käytössä vain tietyillä paikkakunnilla, kun toisilla saatetaan sen asemesta puhua "ekkosta".
+
+Turussa ilmaistaisiin M-moodimittaukset (jos RV:tä ei olisi mitattu) alla olevasta kuvasta ytimekkäästi seuraavasti:
+
+<br />
+
+|    *"LV 40/23, josta EF 75 %. Seinämät 11/14."*
+
+<br />
+
+Huomaa, että mitat ilmaistaan tässä yhteydessä millimetreissä, ilman yksikön "mm" ilmaisua.
+
+<br />
+
+
+(ref:mmodelvidsmagnified) Vasemmasta kammiosta M-moodimittauksella saatavia mittoja ja laskennallisia suureita.
+
+```{r mmodelvidsmagnified, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodelvidsmagnified)", fig.margin = TRUE}
+ knitr::include_graphics("images/mmodelvidsmagnified.jpg")
+```
+
+<br/>
+<br/>
+<br/>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://vldesign.kapsi.fi/echo/">UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.linkedin.com/in/ville-langen">Ville Langén</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
