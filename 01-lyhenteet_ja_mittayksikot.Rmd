@@ -8,7 +8,7 @@ Taulukon alla on laajempaa [diskussiota aiheesta](#lyhenteet_lisatietoa).
 
 <br />
 
-```{r lyhenteita, tidy=FALSE, echo=FALSE}
+```{r lyhenteita, tidy=FALSE, echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
  
 
