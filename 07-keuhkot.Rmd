@@ -23,11 +23,17 @@ Huom! Jos otaksut potilaalla olevan pleuranesteylimäärää mutta et löydäkä
 
 ## B-viivat
 
-Itse keuhkokudoksen kosteus päätellään komeetoista eli B-viivoista. [Lichtensteinin ja Mezièren mukaan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3734893/) kolme B-viivaa tai enemmän yhdessä näkymässä (käytännössä: yhdessä kylkiluuvälissä) on poikkeavaa. Suosittelen lämpimästi lukemaan lisää B-viivoista [heidän erinomaisesta artikkelistaan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3734893/), joka on vapaasti luettavissa PubMed Centralissa - artikkelissa on runsaasti kuvia sekä suositus mittauspaikoista.
+Itse keuhkokudoksen kosteus päätellään B-viivoista. Ne ovat keuhkojen kaikukuvauksessa esiintyviä, pyrstötähdeltä näyttäviä artefaktoja, joita kliinikko voi hyödyntää diagnostiikassa. B-viivoilla on useita kriteerejä, seuraavassa niistä muutamia:
 
-Niin ikään Via ym. ovat kirjoittaneet hyvin informatiivisen artikkelin aiheesta, joka on runsaine kuvineen ladattavissa vapaasti [Minerva Anestesiologican sivuilta](https://www.minervamedica.it/en/journals/minerva-anestesiologica/article.php?cod=R02Y2012N11A1282) (sieltä löytyy suora linkki kyseisen artikkelin [pdf-tiedostoon](https://www.minervamedica.it/en/getfreepdf/NE9PMFI0bzhlMzlGOE1WY0x2QVk4bFpXSFduaDJlRzlSa21MM3psOFA1RE9LVUxpRmRSRkZwYndBM1NndWhRdA%253D%253D/R02Y2012N11A1282.pdf)).
+- näyttävät pyrstötähdiltä (komeetoilta) ja ovat vertikaalisia (ei horisontaalisia)
+- liikkuvat puolelta toiselle viskeraali- ja parietaalipleuran liukuessa toisiaan vastaan (kutsun itse tätä ilmiötä siten, että B-viivat ovat "kuin tuulilasinpyyhkijöitä")
+- jatkuvat pleurasta alas läpi koko kaikukuvausnäkymän (eivät häviä keskelle näkymää)
 
-Yllä mainituissa artikkeleissa kerrotaan myös tärkeää tietoa B-viivojen erotusdiagnostiikasta - B-viivat eivät ole aina osoitus keuhkokongestiosta vaan voivat kieliä mm. pneumoniasta.
+[Lichtensteinin ja Mezièren mukaan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3734893/) kolme B-viivaa tai enemmän yhdessä näkymässä (käytännössä: yhdessä kylkiluuvälissä) on poikkeavaa. Suosittelen lämpimästi lukemaan lisää B-viivoista [heidän erinomaisesta artikkelistaan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3734893/), joka on vapaasti luettavissa PubMed Centralissa - artikkelissa on runsaasti kuvia sekä suositus mittauspaikoista.
+
+Niin ikään Via ym. ovat kirjoittaneet hyvin informatiivisen artikkelin aiheesta, joka on runsaine kuvineen ladattavissa vapaasti [Minerva Anestesiologican sivuilta](https://www.minervamedica.it/en/journals/minerva-anestesiologica/article.php?cod=R02Y2012N11A1282) (keskellä sivua on pieni teksti "PDF", jota painamalla avautuu alkuperäisen artikkelin PDF-tiedosto).
+
+Yllä mainituissa artikkeleissa kerrotaan myös tärkeää tietoa B-viivojen erotusdiagnostiikasta: B-viivat eivät ole aina osoitus keuhkokongestiosta vaan voivat kieliä mm. pneumoniasta.
 
 B-viivat ovat elävän elämän osoitus Goethen viisaudesta:"You see only what you know". Monet kaikukardiografiaa ammatikseen tekevät näkevät tuhansia kertoja elämässään B-viivoja "vahingossa" sydäntä kuvatessaan, mutta eivät ymmärrä niiden merkitystä.
 

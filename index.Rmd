@@ -9,6 +9,7 @@ output:
 site: bookdown::bookdown_site
 ---
 
+
 # Alkusanat
 
 Tässä oppaassa käsitellään UKG:n suoritusta Philips CX50 -laitteella. Periaatteet ovat kuitenkin samat kaikissa UKG-laitteissa, joten oppi on varsin universaalia. Kun oppii käyttämään yhtä UKG-laitetta, osaa perustoiminnot kaikissa eri laitteissa, jopa laitteen valmistajasta riippumatta.

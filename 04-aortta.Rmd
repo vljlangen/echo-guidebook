@@ -63,6 +63,85 @@ Aortan annulus                          Keskisystole        Esim. TAVI-leikattav
 <br />
 
 
+
+```{r lyhenteita, tidy=FALSE, echo=FALSE, warning=FALSE, message=FALSE}
+# library(tidyverse)
+# library(kableExtra)
+# 
+# tibble::tribble(
+#  ~`Aortan dimensio`, ~Mittaushetki, ~`Keneltä mitataan`,                                    
+# "Aortan annulus", "Keskisystole", "Esim. TAVI-leikattavat",
+# "Aortan tyvi", "Loppudiastole", "**Aina**",
+# "STJ", "Loppudiastole", "Vähintään jos aortan dilataatio",
+# "ATA", "Loppudiastole", "Vähintään jos aortan dilataatio",
+# "Aortan kaari", "(ei ohjeistusta)", "Vähintään jos aortan dilataatio"
+#    ) -> aorttataulukko
+# 
+# 
+# knitr::kable((aorttataulukko), booktabs = TRUE,
+# caption = 'Aortasta UKG:lla tyypillisesti mitattavia dimensioita.') %>%
+# footnote(
+#   general = "STJ, sinotubulaarijunktio. ATA, nouseva tubulaarinen aortta (ascending tubular aorta).",
+#   general_title = "Lyhenteet:",
+# )
+
+
+```
+
+
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+
+# library(pacman)
+# p_load(kableExtra, dplyr)
+# 
+# 
+# # Create a simple data frame
+# data <- data.frame(
+#   Name = c("John", "Alice", "Bob"),
+#   Age = c(25, 30, 35)
+# )
+# 
+# 
+# 
+# # knitr::kable((data), booktabs = TRUE,
+# # caption = 'Yleisimpiä UKG-lausunnossa esiintyviä lyhenteitä.') %>% 
+# #   footnote(general = "This is footnote.")
+# 
+# knitr::kable((data), booktabs = TRUE,
+# caption = 'Yleisimpiä UKG-lausunnossa esiintyviä lyhenteitä.') %>%
+# footnote(
+#   general = "My footnote.",
+#   general_title = "",
+# )
+# 
+# 
+# 
+# 
+# # knitr::kable((data), booktabs = TRUE,
+# # caption = 'Yleisimpiä UKG-lausunnossa esiintyviä lyhenteitä.') %>% 
+# #   add_footnote(
+# #   label = "Testi.",
+# #   notation = "none",
+# #   escape = FALSE
+# # )
+# 
+# 
+# 
+# 
+# 
+# # # Create a table with kableExtra
+# # kable(data, caption = "Table 1: Information about individuals") %>%
+# #   kable_styling() %>%
+# #   footnote(general = "This is a footnote about the data.")
+
+
+``` 
+
+
+
+
 <br />
 
 (ref:stj) Sinotubulaarijunktio ja nouseva tubulaarinen aortta. Mittaus suoritetaan loppudiastolessa.

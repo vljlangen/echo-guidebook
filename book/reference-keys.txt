@@ -54,3 +54,4 @@ cvpn-päättely-ivcstä
 keuhkojen-kongestion-arviointi
 pleuraneste
 b-viivat
+tab:unnamed-chunk-1
