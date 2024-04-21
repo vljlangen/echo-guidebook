@@ -54,7 +54,7 @@ Alan kattojärjestöt [ASE ja EACVI painottavat](https://www.asecho.org/guidelin
 
 
 
-```{r lyhenteita, tidy=FALSE, echo=FALSE, warning=FALSE, message=FALSE}
+```{r aorttataulukko, echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
 library(kableExtra)
 
@@ -76,7 +76,13 @@ footnote(
 )
 
 
+
+
+
 ```
+
+
+
 
 
 <br />
