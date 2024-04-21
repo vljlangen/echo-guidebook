@@ -28,7 +28,7 @@ Mitataksesi aortan tyven, pysäytä ensin liikkuva 2D-kuva **Freeze**-painikkeel
 (ref:aortantyvi) Aortan tyven mittaus 2D-kuvasta. Mittaus suoritetaan kun aorttaläppä on kiinni (loppudiastolessa).
 
 ```{r aortantyvi, out.width = '100%', echo=FALSE, fig.cap="(ref:aortantyvi)"}
- knitr::include_graphics("images/aortan_tyvi_end_diastolic.jpg")
+ knitr::include_graphics("images/aortan_tyvi_end_diastolic3.png")
 ```
 
 
@@ -62,9 +62,9 @@ tibble::tribble(
  ~`Aortan dimensio`, ~Mittaushetki, ~`Keneltä mitataan`,
 "Aortan annulus", "Keskisystole", "Esim. TAVI-leikattavat",
 "Aortan tyvi", "Loppudiastole", "**Aina**",
-"STJ", "Loppudiastole", "Ainakin jos aortan dilataatio",
-"ATA", "Loppudiastole", "Ainakin jos aortan dilataatio",
-"Aortan kaari", "(ei ohjeistusta)", "Ainakin jos aortan dilataatio"
+"STJ", "Loppudiastole", "Vähintään silloin jos aortan dilataatio",
+"ATA", "Loppudiastole", "Vähintään silloin jos aortan dilataatio",
+"Aortan kaari", "(ei ohjeistusta)", "Vähintään silloin jos aortan dilataatio"
    ) -> aorttataulukko
 
 
@@ -84,7 +84,7 @@ footnote(
 (ref:stj) Sinotubulaarijunktio ja nouseva tubulaarinen aortta. Mittaus suoritetaan loppudiastolessa.
 
 ```{r stj, out.width = '100%', echo=FALSE, fig.cap="(ref:stj)"}
- knitr::include_graphics("images/aortta_stj_tub.jpg")
+ knitr::include_graphics("images/aortta_stj_tub2.png")
 ```
 <br />
 
@@ -95,7 +95,7 @@ footnote(
 (ref:annulus) Aortan annulus mitataan keskisystolessa.
 
 ```{r annulus, out.width = '100%', echo=FALSE, fig.cap="(ref:annulus)"}
- knitr::include_graphics("images/aortan_tyvi_annulus.jpg")
+ knitr::include_graphics("images/aortan_tyvi_annulus2.png")
 ```
 <br />
 
