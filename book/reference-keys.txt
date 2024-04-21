@@ -63,3 +63,5 @@ turun-tapa
 porin-tapa
 parasternaalinen-pitkittäisprojektio-pslax
 nelilokerokuva-a4c
+fig:psax
+psax

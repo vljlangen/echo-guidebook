@@ -8,7 +8,7 @@ Projektioille on omat loogiset ja helpot kirjainlyhenteensä, jotka on syytä op
 
 ## PSLAX
 
-Parasternaalinen pitkittäisprojektio (PSLAX, parasternal long axis view).
+Parasternaalinen pitkittäisprojektio (PSLAX, parasternal long axis view) saadaan kuvautumaan, kun anturi viedään rintalastan keskiosasta heti vasemmalle. Anturin "nypyn" pitää osoittaa kohti tutkittavan rintalastaa / oikeaa kainaloa.
 
 <br />
 
@@ -18,6 +18,26 @@ Parasternaalinen pitkittäisprojektio (PSLAX, parasternal long axis view).
 ```{r pslax, out.width = '100%', echo=FALSE, fig.cap="(ref:pslax)"}
  knitr::include_graphics("images/pslax.jpg")
 ```
+
+
+## PSAX
+
+Parasternaalinen poikittaisprojektio eli lyhyen akselin projektio (PSAX, parasternal short axis view) saadaan rotatoimalla anturia parasternaalisesta pitkittäisprojektiosta 90 astetta myötäpäivään. Joskus samalla anturin paikkaa pitää hivenen siirtää, jotta saadaan palautetuksi rotaation yhteydessä mahdollisesti hukattu näkyvyys kylkiluiden välistä sydämeen.
+
+Tästä projektiosta pystyy skannaamaan koko vasemman kammion läpi tilttaamalla (ei siis rotatoimalla!) anturia joko kohti aorttaa (ääriasennossa näkyy poikkileikkaus aorttaläpästä) tai kohti sydämen kärkeä (jolloin näkyy vain vasemman kammion kärki pienen pienenä donitsina).
+
+Alla olevassa kuvassa \@ref(fig:psax) nähdään lyhyen akselin projektio vasemman kammion papillaarilihasten tasolta. 
+
+
+<br />
+
+
+(ref:psax) Parasternaalinen lyhyen akselin projektio (PSAX).
+
+```{r psax, out.width = '100%', echo=FALSE, fig.cap="(ref:psax)"}
+ knitr::include_graphics("images/psax2.png")
+```
+
 
 
 ## A4C
@@ -37,7 +57,7 @@ Apikaalisesta projektiosta - joka joskus myös kärkikuvaksi kutsutaan - kuvataa
 
 ### "Porin tapa"
 
-Jos sen sijaan "nypy" suunnataankin lateraalisesti osoittamaan tutkittavan kylkeä kohti, vasen kammio piirtyykin kuva-alassa oikealle - näin toimitaan esim. Porin kardiologialla.
+Jos sen sijaan "nypy" suunnataankin lateraalisesti osoittamaan kohti tutkittavan kylkeä, vasen kammio piirtyykin kuva-alassa oikealle - näin toimitaan esim. Porin kardiologialla.
 
 <br />
 

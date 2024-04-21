@@ -1,7 +1,7 @@
 # Lyhenteet ja mittayksiköt
 
 ## Lyhenteet ja mittayksiköt
-Seuraavassa taulukossa näytetään UKG:ssa käytettävien lyhenteiden ohella myös eri mittauksille ne mittayksiköt, joita kokemuksestani Turun seudulla tyypillisimmin käytetään. Listan lopussa on myös muutamia sellaisia UKG-löydöksiä, joita saatetaan kuvata lausunnossa lyhentein.
+Seuraavassa taulukossa \@ref(tab:lyhenteita) näytetään UKG:ssa käytettävien lyhenteiden ohella myös eri mittauksille ne mittayksiköt, joita kokemuksestani Turun seudulla tyypillisimmin käytetään. Listan lopussa on myös muutamia sellaisia UKG-löydöksiä, joita saatetaan kuvata lausunnossa lyhentein.
 
 Taulukon alla on laajempaa [diskussiota aiheesta](#lyhenteet_lisatietoa).
 
@@ -67,7 +67,7 @@ UKG-lausunnoissa vilisee kirjainlyhenteitä, jotka on johdettavissa suoraan kuva
 
 UKG:ta harjoittelevat kysyvät lisäksi usein, mitä mittayksikköä missäkin mittauksessa tulee käyttää. Kokemukseni on, että mittayksiköiden käyttö ei ole ihan johdonmukaista - esim. tiettyjä nopeuksia kuvataan m/s- ja toisia cm/s-mittayksiköllä.
 
-Myös tiettyjä löydöksiä saatetaan kuvata lyhentein. Tämä ei ehkä ole luettavuuden kannalta paras ratkaisu, mutta UKG-lausuntoja lienee ylipäänsä vaikea lukea, jos ei itse UKG:ta tee. En sulkisi taulukossa esitettyjen löydösten lyhenteiden käyttöä pois, jos lausunnon lopussa on pieni yhteenveto ihmisen luettavalla kielellä - suosittelen tällaista yhteenvetoa ylipäänsä voimakkaasti.
+Myös tiettyjä löydöksiä saatetaan kuvata lyhentein. Tämä ei ehkä ole luettavuuden kannalta paras ratkaisu, mutta UKG-lausuntoja lienee ylipäänsä vaikea lukea, jos ei itse UKG:ta tee. En sulkisi taulukossa \@ref(tab:lyhenteita) esitettyjen löydösten lyhenteiden käyttöä pois, jos lausunnon lopussa on pieni yhteenveto ihmisen luettavalla kielellä - suosittelen tällaista yhteenvetoa ylipäänsä voimakkaasti.
 
 <br/> <br/> <br/>
 
