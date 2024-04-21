@@ -51,6 +51,10 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<link href="libs/bsTable-3.3.7/bootstrapTable.min.css" rel="stylesheet" />
+<script src="libs/bsTable-3.3.7/bootstrapTable.js"></script>
 
 
 
@@ -180,44 +184,93 @@ Figure 5.2: Aortan tyven mittaus 2D-kuvasta. Mittaus suoritetaan kun aorttaläpp
 <p>Alan kattojärjestöt <a href="https://www.asecho.org/guideline/recommendations-for-cardiac-chamber-quantification-by-echocardiography-in-adults-an-update-from-the-american-society-of-echocardiography-and-the-european-association-of-cardiovascular-imaging/">ASE ja EACVI painottavat</a>, että ainoastaan aortan annuluksen mittaus suoritetaan keskisystolessa (Fig. <a href="aortta-ao.html#fig:annulus">5.4</a>), kaikki muut mitat loppudiastolessa (Fig. <a href="aortta-ao.html#fig:stj">5.3</a>). (Tosin aortan kaaren mittauksesta en ole löytänyt/lukenut näiden kattojärjestöjen suosituksia, joten en ole kiinnittänyt systole vs. diastole -kysymykseen suurta huomiota tuossa.)</p>
 <p><br />
 <br /></p>
-<table>
-<caption>Aortasta UKG:lla tyypillisesti mitattavia dimensioita.</caption>
+<table style="NAborder-bottom: 0;">
+<caption>
+<span id="tab:lyhenteita">Table 5.1: </span>Aortasta UKG:lla tyypillisesti mitattavia dimensioita.
+</caption>
 <thead>
-<tr class="header">
-<th align="left">Aortan dimensio</th>
-<th align="left">Mittaushetki</th>
-<th align="left">Keneltä mitataan</th>
+<tr>
+<th style="text-align:left;">
+Aortan dimensio
+</th>
+<th style="text-align:left;">
+Mittaushetki
+</th>
+<th style="text-align:left;">
+Keneltä mitataan
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left">Aortan annulus</td>
-<td align="left">Keskisystole</td>
-<td align="left">Esim. TAVI-leikattavat</td>
+<tr>
+<td style="text-align:left;">
+Aortan annulus
+</td>
+<td style="text-align:left;">
+Keskisystole
+</td>
+<td style="text-align:left;">
+Esim. TAVI-leikattavat
+</td>
 </tr>
-<tr class="even">
-<td align="left">Aortan tyvi</td>
-<td align="left">Loppudiastole</td>
-<td align="left"><strong>Aina</strong></td>
+<tr>
+<td style="text-align:left;">
+Aortan tyvi
+</td>
+<td style="text-align:left;">
+Loppudiastole
+</td>
+<td style="text-align:left;">
+<strong>Aina</strong>
+</td>
 </tr>
-<tr class="odd">
-<td align="left">Sinotubulaarijunktio</td>
-<td align="left">Loppudiastole</td>
-<td align="left">Vähintään silloin jos aortan dilataatio</td>
+<tr>
+<td style="text-align:left;">
+STJ
+</td>
+<td style="text-align:left;">
+Loppudiastole
+</td>
+<td style="text-align:left;">
+Ainakin jos aortan dilataatio
+</td>
 </tr>
-<tr class="even">
-<td align="left">Nouseva tubulaarinen aortta</td>
-<td align="left">Loppudiastole</td>
-<td align="left">Vähintään silloin jos aortan dilataatio</td>
+<tr>
+<td style="text-align:left;">
+ATA
+</td>
+<td style="text-align:left;">
+Loppudiastole
+</td>
+<td style="text-align:left;">
+Ainakin jos aortan dilataatio
+</td>
 </tr>
-<tr class="odd">
-<td align="left">Aortan kaari</td>
-<td align="left">(ei ohjeistusta)</td>
-<td align="left">Vähintään silloin jos aortan dilataatio</td>
+<tr>
+<td style="text-align:left;">
+Aortan kaari
+</td>
+<td style="text-align:left;">
+(ei ohjeistusta)
+</td>
+<td style="text-align:left;">
+Ainakin jos aortan dilataatio
+</td>
 </tr>
 </tbody>
+<tfoot>
+<tr>
+<td style="padding: 0; " colspan="100%">
+<span style="font-style: italic;">Lyhenteet:</span>
+</td>
+</tr>
+<tr>
+<td style="padding: 0; " colspan="100%">
+<sup></sup> STJ, sinotubulaarijunktio. ATA, nouseva tubulaarinen aortta (ascending tubular aorta).
+</td>
+</tr>
+</tfoot>
 </table>
-<p><br /></p>
 <p><br /></p>
 
 <div class="figure"><span style="display:block;" id="fig:stj"></span>
