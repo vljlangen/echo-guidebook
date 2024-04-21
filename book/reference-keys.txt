@@ -65,3 +65,5 @@ parasternaalinen-pitkittäisprojektio-pslax
 nelilokerokuva-a4c
 fig:psax
 psax
+fig:psaxtilttauksia
+fig:psaxtaivutuksia

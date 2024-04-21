@@ -16,7 +16,7 @@ Parasternaalinen pitkittäisprojektio (PSLAX, parasternal long axis view) saadaa
 (ref:pslax) Parasternaalinen pitkittäisprojektio (PSLAX).
 
 ```{r pslax, out.width = '100%', echo=FALSE, fig.cap="(ref:pslax)"}
- knitr::include_graphics("images/pslax.jpg")
+ knitr::include_graphics("images/pslax2.png")
 ```
 
 
@@ -24,9 +24,11 @@ Parasternaalinen pitkittäisprojektio (PSLAX, parasternal long axis view) saadaa
 
 Parasternaalinen poikittaisprojektio eli lyhyen akselin projektio (PSAX, parasternal short axis view) saadaan rotatoimalla anturia parasternaalisesta pitkittäisprojektiosta 90 astetta myötäpäivään. Joskus samalla anturin paikkaa pitää hivenen siirtää, jotta saadaan palautetuksi rotaation yhteydessä mahdollisesti hukattu näkyvyys kylkiluiden välistä sydämeen.
 
-Tästä projektiosta pystyy skannaamaan koko vasemman kammion läpi tilttaamalla (ei siis rotatoimalla!) anturia joko kohti aorttaa (ääriasennossa näkyy poikkileikkaus aorttaläpästä) tai kohti sydämen kärkeä (jolloin näkyy vain vasemman kammion kärki pienen pienenä donitsina).
+Tästä projektiosta pystyy skannaamaan aste asteelta koko vasemman kammion kaikki osat tilttaamalla (ei siis rotatoimalla!) anturia joko kohti aorttaa tai sydämen kärkeä. Ääriasennossa aorttaa kohti tiltatessa nähdään poikkileikkaus aorttaläpästä, ja vastaavasti ääriasennossa kohti sydämen kärkeä tiltatessa nähdään vain vasemman kammion kärki pienenä donitsilta näyttävänä projektiona.
 
 Alla olevassa kuvassa \@ref(fig:psax) nähdään lyhyen akselin projektio vasemman kammion papillaarilihasten tasolta. 
+
+Alempana näkyvässä kuvassa \@ref(fig:psaxtaivutuksia) esitellään PSAX-projektion eri tilttauksia (rotaatioaste pysyy koko ajan samana eli 90 asteessa myötäpäivään PSLAX:sta katsottuna).  
 
 
 <br />
@@ -38,6 +40,15 @@ Alla olevassa kuvassa \@ref(fig:psax) nähdään lyhyen akselin projektio vasemm
  knitr::include_graphics("images/psax2.png")
 ```
 
+
+<br />
+
+
+(ref:psaxtaivutuksia) Parasternaalisen lyhyen akselin projektion tilttaaminen eri leiketasoille.
+
+```{r psaxtaivutuksia, out.width = '100%', echo=FALSE, fig.cap="(ref:psaxtaivutuksia)"}
+ knitr::include_graphics("images/psax_taivutuksia.png")
+```
 
 
 ## A4C
@@ -52,7 +63,7 @@ Apikaalisesta projektiosta - joka joskus myös kärkikuvaksi kutsutaan - kuvataa
 (ref:a4cturku) Nelilokerokuva (A4C) Turun malliin.
 
 ```{r a4cturku, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cturku)"}
- knitr::include_graphics("images/a4c_and_body_turku2.png")
+ knitr::include_graphics("images/a4c_and_body_turku3.png")
 ```
 
 ### "Porin tapa"
@@ -65,7 +76,7 @@ Jos sen sijaan "nypy" suunnataankin lateraalisesti osoittamaan kohti tutkittavan
 (ref:a4cpori) Nelilokerokuva (A4C) Porin malliin.
 
 ```{r a4cpori, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cpori)"}
- knitr::include_graphics("images/a4c_and_body_pori.png")
+ knitr::include_graphics("images/a4c_and_body_pori2.png")
 ```
 
 
