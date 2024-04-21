@@ -8,7 +8,7 @@ Projektioille on omat loogiset ja helpot kirjainlyhenteensä, jotka on syytä op
 
 ## PSLAX
 
-Parasternaalinen pitkittäisprojektio.
+Parasternaalinen pitkittäisprojektio (PSLAX, parasternal long axis view).
 
 <br />
 
@@ -18,6 +18,36 @@ Parasternaalinen pitkittäisprojektio.
 ```{r pslax, out.width = '100%', echo=FALSE, fig.cap="(ref:pslax)"}
  knitr::include_graphics("images/pslax.jpg")
 ```
+
+
+## A4C
+
+### "Turun tapa"
+
+Apikaalisesta projektiosta - joka joskus myös kärkikuvaksi kutsutaan - kuvataan nelilokerokuva (A4C, apical four chamber view) . Turun alueella tyypillisimmin anturin "nypy" suunnataan tutkittavan kehon keskiviivaa kohti, jolloin vasen kammio piirtyy kuva-alassa vasemmalle.
+
+<br />
+
+
+(ref:a4cturku) Nelilokerokuva (A4C) Turun malliin.
+
+```{r a4cturku, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cturku)"}
+ knitr::include_graphics("images/a4c_and_body_turku2.png")
+```
+
+### "Porin tapa"
+
+Jos sen sijaan "nypy" suunnataankin lateraalisesti osoittamaan tutkittavan kylkeä kohti, vasen kammio piirtyykin kuva-alassa oikealle - näin toimitaan esim. Porin kardiologialla.
+
+<br />
+
+
+(ref:a4cpori) Nelilokerokuva (A4C) Porin malliin.
+
+```{r a4cpori, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cpori)"}
+ knitr::include_graphics("images/a4c_and_body_pori.png")
+```
+
 
 
 <br/>

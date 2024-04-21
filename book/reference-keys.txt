@@ -56,3 +56,10 @@ cvpn-päättely-ivcstä
 keuhkojen-kongestion-arviointi
 pleuraneste
 b-viivat
+fig:a4cturku
+a4c
+fig:a4cpori
+turun-tapa
+porin-tapa
+parasternaalinen-pitkittäisprojektio-pslax
+nelilokerokuva-a4c
