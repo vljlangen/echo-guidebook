@@ -71,3 +71,4 @@ diastoliikka
 section
 e--ja-a-aalto
 fig:mitraalisisaanvirtaus
+fig:diastoliikkaeaaallot
