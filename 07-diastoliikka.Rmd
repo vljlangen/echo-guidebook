@@ -22,7 +22,7 @@ Jos tutkittava on sinusrytmissä, nähdään diastolessa mitraaliläpän avautue
 
 ***Huom. Jos tutkittava on eteisvärinässä, vasemmassa eteisessä ei ole kunnon supistelua vaan kaoottista värinää, jolloin A-aaltoa ei nähdä.***
 
-E- ja A-aalto mitataan nelilokerokuvasta, sijoittamalla kursori (näytteenottopiste) juuri mitraaliläpän purjeiden distaalipuolelle vasempaan kammioon diastolessa (Fig. \@ref(fig:diastoliikkapw)).
+E- ja A-aalto mitataan nelilokerokuvasta, sijoittamalla kursori (näytteenottopiste) nelilokerokuvassa pallohiirellä juuri mitraaliläpän purjeiden distaalipuolelle vasempaan kammioon diastolessa (Fig. \@ref(fig:diastoliikkapw)).
 
 
 
@@ -41,7 +41,7 @@ E- ja A-aalto mitataan nelilokerokuvasta, sijoittamalla kursori (näytteenottopi
 
 
 
-Keskeisimmät mittaukset E- ja A-aalloista ovat kummankin aallon huippukohdat, jotka edustavat vastaavien verenvirtauksien maksiminopeutta. Näistä nopeuksista - ja niiden keskinäisestä suhteesta - pystyy tekemään seuraavia päätelmiä sydämen diastolisesta toiminnasta:
+Keskeisimmät mittaukset E- ja A-aalloista ovat kummankin aallon huippukohdat, jotka edustavat vastaavien verenvirtauksien maksiminopeuksia. Näistä nopeuksista - ja niiden keskinäisestä suhteesta - pystyy tekemään seuraavia päätelmiä sydämen diastolisesta toiminnasta:
 
 1. Nuorilla terveillä tutkittavilla E-aalto on suurempi kuin A-aalto
    - E/A-suhde > 1.0

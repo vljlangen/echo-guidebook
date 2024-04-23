@@ -1,3 +1,4 @@
+fig:ukglaite
 tab:lyhenteita
 fig:pslax
 fig:psax
@@ -22,13 +23,14 @@ tab:aorttataulukko
 fig:stj
 fig:annulus
 fig:vaseneteinen
-fig:diastoliikkaeaaallot
+fig:diastoliikkapw
 fig:mitraalisisaanvirtaus
 fig:ivc
 tab:cvp
 fig:keuhkot
 fig:bviivat
 alkusanat
+ukg-laitteen-nappulat
 lyhenteet-ja-mittayksiköt
 lyhenteet-ja-mittayksiköt-1
 lyhenteet_lisatietoa
@@ -68,4 +70,3 @@ cvpn-päättely-ivcstä
 keuhkojen-kongestion-arviointi
 pleuraneste
 b-viivat
-fig:diastoliikkapw
