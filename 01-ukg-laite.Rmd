@@ -10,7 +10,7 @@ Alla näkyvässä kuvassa (Fig. \@ref(fig:ukglaite)) esitellään UKG-laitteen P
 (ref:ukglaite) UKG-laitteen Philips CX50 nappulat.
 
 ```{r ukglaite, out.width = '100%', echo=FALSE, fig.cap="(ref:ukglaite)"}
- knitr::include_graphics("images/ukg-laite.jpg")
+ knitr::include_graphics("images/ukg-laite2.jpg")
 ```
 
 
