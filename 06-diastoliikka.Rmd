@@ -18,11 +18,11 @@ Jos tutkittava on sinusrytmissä, nähdään diastolessa mitraaliläpän avautue
    - virtaus vasempaan kammioon syntyy, koska vasemmassa eteisessä on tuolloin suurempi paine kuin vasemmassa kammiossa
 
 2) Sitten **A-aalto** (tulee sanasta *atrium*)
-   - virtaus yntyy vasemman eteisen supistuessa ja työntäessä verta vasempaan kammioon
+   - virtaus syntyy vasemman eteisen supistuessa ja työntäessä verta vasempaan kammioon
 
 ***Huom. Jos tutkittava on eteisvärinässä, vasemmassa eteisessä ei ole kunnon supistelua vaan kaoottista värinää, jolloin A-aaltoa ei nähdä.***
 
-
+E- ja A-aalto mitataan nelilokerokuvasta, sijoittamalla kursori (näytteenottopiste) juuri mitraaliläpän purjeiden distaalipuolelle vasempaan kammioon diastolessa (Fig. \@ref(fig:diastoliikkapw)).
 
 
 
@@ -30,9 +30,9 @@ Jos tutkittava on sinusrytmissä, nähdään diastolessa mitraaliläpän avautue
 <br />
 
 
-(ref:diastoliikkaeaaallot) Mitraalisisäänvirtauksen mittaus nelilokerokuvasta.
+(ref:diastoliikkapw) Mitraalisisäänvirtauksen mittaus nelilokerokuvasta.
 
-```{r diastoliikkaeaaallot, out.width = '100%', echo=FALSE, fig.cap="(ref:diastoliikkaeaaallot)"}
+```{r diastoliikkapw, out.width = '100%', echo=FALSE, fig.cap="(ref:diastoliikkapw)"}
  knitr::include_graphics("images/diastoliikka_ea_aallot.png")
 ```
 
@@ -52,7 +52,7 @@ Keskeisimmät mittaukset E- ja A-aalloista ovat kummankin aallon huippukohdat, j
    
 Koska yllä mainitut skenaariot 1 ja 3 muistuttavat visuaalisesti toisiaan  (Fig. \@ref(fig:mitraalisisaanvirtaus)), aloitteleva ekkoaja voi pohtia, että eikö tästä aiheudu huomattavia vaikeuksia päätellä, onko sydämen diastolinen toiminta täysin normaalia vaiko hyvinkin epänormaalia. Käytännössä kokeneemmalla ekkoajalla on harvemmin vaikeuksia normaalin ja pseudonormaalin mitraalisisäänvirtauksen erottamisessa toisistaan. Potilaan ikä ja UKG-tutkimuksessa tehtävät muut havainnot auttavat erottamaan nämä skenaariot toisistaan.
 
-***Tärkeintä on mielestäni muistaa, että jos iäkkäällä henkilöllä näkee "normaalin" E/A-suhteen, se harvemmin jos koskaan on oikeasti normaali. Iäkkäillä tutkittavilla on käytännössä aina joko käänteinen mitraalisisäänvirtaus (skenaario 2 yllä) tai pseudonormaali mitraalisisäänvirtaus (skenaario 3 yllä). Jostain syystä tätä yksinkertaista muistisääntöä ei painoteta kirjallisuudessa.***
+***Tärkeintä on mielestäni muistaa, että jos iäkkäällä henkilöllä näkee "normaalin" E/A-suhteen, se harvemmin jos koskaan on oikeasti normaali. Iäkkäillä tutkittavilla on käytännössä aina joko käänteinen mitraalisisäänvirtaus (skenaario 2 yllä ja alla) tai pseudonormaali mitraalisisäänvirtaus (skenaario 3 yllä ja alla). Jostain syystä tätä yksinkertaista muistisääntöä ei painoteta kirjallisuudessa.***
 
 
 
