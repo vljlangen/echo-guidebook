@@ -67,3 +67,7 @@ fig:psax
 psax
 fig:psaxtilttauksia
 fig:psaxtaivutuksia
+diastoliikka
+section
+e--ja-a-aalto
+fig:mitraalisisaanvirtaus
