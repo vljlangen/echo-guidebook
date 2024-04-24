@@ -1,4 +1,5 @@
 fig:ukglaite
+fig:caliperjacalc
 tab:lyhenteita
 fig:pslax
 fig:psax
@@ -31,6 +32,7 @@ fig:keuhkot
 fig:bviivat
 alkusanat
 ukg-laitteen-nappulat
+caliper-vs.-muut-nappulat
 lyhenteet-ja-mittayksiköt
 lyhenteet-ja-mittayksiköt-1
 lyhenteet_lisatietoa
@@ -70,3 +72,9 @@ cvpn-päättely-ivcstä
 keuhkojen-kongestion-arviointi
 pleuraneste
 b-viivat
+aorttastenoosi
+visuaalinen-tarkastelu
+väridoppler
+jatkuva-doppler
+fig:a5c
+a5c

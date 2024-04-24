@@ -1,0 +1,43 @@
+# Aorttastenoosi
+
+[Euroopan Kardiologisen Seuran mukaan](https://academic.oup.com/eurheartj/article/43/7/561/6358470) aorttastenoosi on yleisin kajoavaa toimenpidettä vaativa läppävika Euroopassa ja Pohjois-Amerikassa.
+
+UKG:ta opetteleva kliinikko oppii varsin nopeasti ihan visuaalisella tarkastelulla poissulkemaan aorttastenoosin ilman jatkuvalla ja pulssidopplerilla tehtäviä numeerisia mittauksia.
+
+Seuraavassa on esiteltynä keskeisimpiä metodeja aorttastenoosin UKG-diagnostiikassa.
+
+## Visuaalinen tarkastelu
+
+Eritoten parasternaalinen pitkittäiskuva (PSLAX) ja poikittaiskuva (PSAX) ovat hyödyllisiä aorttaläpän avautumisliikkeen tarkastelussa. Jos läpässä on runsaasti kalkkia, ja sen avautumisliike vaikuttaa huonolta, tulee epäillä aorttastenoosia.
+
+## Väridoppler
+
+Jos verenvirtauksen tiellä ei ole rajoitteita kuten aorttastenoosia,  väridopplerin signaali kuvautuu yksivärisenä (laminaarinen virtaus).
+
+Jos veri kulkeutuu ahtautuneen kanavan läpi, nähdään mosaiikkimainen väridopplerin signaali, jossa keltaiset värit korostuvat (turbulentti virtaus).
+
+Aina kun aorttaläppäpositiossa nähdään turbulentti virtaus, tulee epäillä aorttastenoosia.
+
+## Jatkuva doppler
+
+Jatkuva doppler on erittäin keskeinen aorttastenoosin diagnostiikassa. Mittauksen vaiheet on lueteltu alla:
+
+1. 2D-kuvassa haetaan ensin edustava viisilokerokuva
+2. Näytteenottoviiva ohjataan pallohiirellä osumaan vasemman kammion kärjestä aorttaläpän yli
+3. Painetaan CW-nappulaa, joka käynnistää jatkuvan dopplerin
+4. Edustavan varjokäyrän alin (= nopein) lukema mitataan joko Caliper-painikkeella tai Calc-nappulan takaa valikosta Aortic Valve löytyvällä suureella AV Vmax
+
+Aloitteleva ekkoaja huomaa piakkoin, että Caliper-painikkeella saa täysin saman lukeman kuin nimeämällä mittauksen Calc-nappulan takaa löytyväksi AV Vmax -suureeksi.
+
+***Nyrkkisääntö on, että jos jo Caliper-painikkeella vilkaistu nopeus on vähintään 4 m/s (vastaa 65 mmHg:n eroa vasemman kammion ja aortan välillä), vaikea-asteisen aorttastenoosin diagnoosi on selvä, eikä kliinikko välttämättä tarvitse tarkempia, Calc-nappulan takaa avautuvia mittauksia.***
+
+Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei vielä vaikea-asteiseen aorttastenoosiin, kannattaa vielä mitata aorttaläpän avautumispinta-ala jatkuvuusyhtälöä hyödyntäen. Tällöin Caliper-nappulalla mitattu nopeus ei kelpaa yhtälöön, koska UKG-laite ei tajua, minkä nopeuden ekkoaja on sillä mitannut - mittaus täytyy tallentaa UKG-laitteeseen rakenteisesti AV Vmax -suureeksi (tai AV VTI -suureeksi).
+
+
+<br/>
+<br/>
+<br/>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://vldesign.kapsi.fi/echo/">UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.linkedin.com/in/ville-langen">Ville Langén</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
+
+          

@@ -17,7 +17,7 @@ Alla näkyvässä kuvassa (Fig. \@ref(fig:ukglaite)) esitellään UKG-laitteen P
 <br/>
 <br/>
 
-Philips CX 50 -laitteen keskeisimpiä nappuloita:
+Philips CX 50 -laitteen keskeisimpiä nappuloita (merkitty valkoisin numeroin):
 
 1. **Virtanappula:** jo tätä painamalla pääsee erittäin pitkälle
 
@@ -47,7 +47,7 @@ Philips CX 50 -laitteen keskeisimpiä nappuloita:
 
 14. **Print:** tämä tulostaa näytöllä näkyvän kuvan UKG-laitteeseen kytketylle tulostimelle
 
-15. **End exam:** tällä saa lopetettua käynnissä olevan tutkimuksen ja nollattua kaikki tallennetut mittaukset, kuvat ja videot - jos Acquire-nappulalla on tehty tallennuksia, nämä jäävät UKG-laitteen massamuistille
+15. **End exam:** tällä saa lopetettua käynnissä olevan tutkimuksen ja nollattua kaikki tallennetut mittaukset, kuvat ja videot (jos Acquire-nappulalla on tehty tallennuksia, nämä jäävät samalla UKG-laitteen massamuistiin)
 
 16. **Patient:** tutkittavan tunnistetiedot saa syötettyä tämän painikkeen takaa avautuvalla näytöllä
 
@@ -57,7 +57,7 @@ Philips CX 50 -laitteen keskeisimpiä nappuloita:
 <br/>
 <br/>
 
-Philips CX 50 -laitteen keskeisimpiä "potikoita":
+Philips CX 50 -laitteen keskeisimpiä "potikoita" (merkitty keltaisin numeroin):
 
 1. **Depth:** tällä saa laajennettua tai kavennettua kuva-alaa UKG-laitteen näytöllä
 
@@ -65,7 +65,7 @@ Philips CX 50 -laitteen keskeisimpiä "potikoita":
 
 3. **Zoom:** tällä saa zoomattua kuvaa
 
-4. **"Baseline-potikka":** tämä on keskeisin ylärivin potikoista - sillä saa laskettua tai nostettua baselinea (= Y-akselin origoa) esim. jatkuvaa doppleria käytettäessä
+4. **"Baseline-potikka":** tämä on keskeisin ylärivin potikoista - tällä saa laskettua tai nostettua baselinea (= Y-akselin origoa) esim. jatkuvaa doppleria käytettäessä
 
 
 

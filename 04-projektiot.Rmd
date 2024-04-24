@@ -81,6 +81,28 @@ Jos sen sijaan "nypy" suunnataankin lateraalisesti osoittamaan kohti tutkittavan
 
 
 
+
+## A5C
+
+Viisilokerokuva (A5C, apical five chamber view) on verraten helppo muodostaa hakemalla ensin nelilokerokuvan ja kallistamalla sitten anturin kärkeä hiukan ventraalisesti. Vastaavasti nelilokerokuvaan pääsee takaisin kallistamalla anturin kärkeä takaisin hivenen dorsaalisuuntaan.
+
+Viisilokerokuvan tärkein merkitys on aorttaläppään kohdistuvat tarkastelut ja mittaukset esim. väridopplerilla ja jatkuvalla dopplerilla.
+
+Joskus anturin ventraalinen kallistus tuntuu hävittävän näkyvyyden kokonaan, ja joskus aortta avautuu niin vinosti, ettei aorttaläpän yli pysty tekemään mittauksia jatkuvalla dopplerilla. Näissä tapauksissa usein auttaa, kun koko anturia siirtää kylkiluuta pitkin jonkin matkaa kohti potilaan kylkeä ("kohti kainaloa").
+
+<br />
+
+
+(ref:a5c) Viisilokerokuva (A5C).
+
+```{r a5c, out.width = '100%', echo=FALSE, fig.cap="(ref:a5c)"}
+ knitr::include_graphics("images/a5c_and_body_turku2.png")
+```
+
+
+
+
+
 <br/>
 <br/>
 <br/>

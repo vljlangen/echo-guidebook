@@ -33,7 +33,7 @@ E- ja A-aalto mitataan nelilokerokuvasta, sijoittamalla kursori (näytteenottopi
 (ref:diastoliikkapw) Mitraalisisäänvirtauksen mittaus nelilokerokuvasta.
 
 ```{r diastoliikkapw, out.width = '100%', echo=FALSE, fig.cap="(ref:diastoliikkapw)"}
- knitr::include_graphics("images/diastoliikka_ea_aallot.png")
+ knitr::include_graphics("images/diastoliikka_ea_aallot2.png")
 ```
 
 
