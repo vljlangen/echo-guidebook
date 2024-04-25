@@ -1,4 +1,4 @@
-# Caliper vs. muut nappulat
+# Caliper vs. Calc
 
 Olen vuosien varrella havainnut, että aloittelevilla ekkoajilla voi olla pitkäänkin vaikeuksia erottaa seuraavat kaksi mittaustapaa toisistaan:
 
@@ -26,6 +26,8 @@ Jos tahtoo UKG-laitteen laskevan esim. ejektiofraktion, laitteen kanssa on mitat
 1. LVIDd (vasemman kammion läpimitta diastolessa)
 2. LVIDs (vasemman kammion lämpimitta systolessa)
 
+Välittömästi kun nämä mittaukset on rakenteisesti tehty, UKG-laite ilmoittaa näytöllä automaattisesti vasemman kammion ejektiofraktion, pyysi sitä ekkoaja tai ei.
+
 Jos taas mittaa kummankin edellä mainitun mitan Caliper-painikkeella, laitteelle tämä näyttäytyy seuraavasti:
 
 1. Äsken mitattiin jokin tuntematon Caliper-mitta
@@ -33,13 +35,14 @@ Jos taas mittaa kummankin edellä mainitun mitan Caliper-painikkeella, laitteell
 
 <br/>
 
-***Käytännön työssä kokenut ekkoaja ja kliinikko saattaa suorittaa varsinkin lääkärinkierrolla useita tutkimuksia perätysten käyttämällä pelkkää Caliper-toimintoa sen nopeuden vuoksi, saaden silti riittävän käsityksen kliinisesti merkittävistä UKG-löydöksistä.***
+***Käytännön työssä kokenut ekkoaja ja kliinikko saattaa suorittaa varsinkin lääkärinkierrolla useita tutkimuksia perätysten käyttämällä pelkkää Caliper-toimintoa sen nopeuden vuoksi, saaden silti riittävän käsityksen kliinisesti merkittävistä UKG-löydöksistä niin lausunnon laatimista kuin varsinaista hoitoakin koskien.***
 
 <br/>
 
-Tyypillisiä mittauksia, jotka saa nopeasti katsottua "nimettömästi" Caliper-painikkeella:
+Tyypillisiä mittauksia, jotka voi nopeasti katsoa "nimettömästi" Caliper-painikkeella:
 
-- Vasemman kammion läpimitta (jolloin ei toki ole aikomustakaan mittauttaa UKG-laitteella ejektiofraktiota)
+- Vasemman kammion läpimitta
+   - jos tämän katsoo vain Caliper-painikkeella, ei ekkoajalla toki ole aikomustakaan mittauttaa UKG-laitteella ejektiofraktiota
 - Aortan ja vasemman eteisen läpimitat
 - Aorttaläpän yli mitattu maksimigradientti jatkuvalla dopplerilla
 - Trikuspidaaligradientti

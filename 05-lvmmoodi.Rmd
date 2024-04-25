@@ -1,6 +1,6 @@
 # LV:n mitat ja LVEF M-moodilla
 
-## M-moodi: tarvittavat nappulat
+## M-moodi
 
 Jos näkyvyys on hyvä ja tutkittavan sydämen asento kuvaustekniikkaa ajatellen sopiva (Fig. \@ref(fig:mmoodimallikuva)), saadaan M-moodimittauksella nopeasti paljon hyödyllistä tietoa tutkittavan sydämestä.
 
@@ -17,7 +17,7 @@ M-moodin aikaansaamiseksi ja sillä mittausten tekemiseksi tarvitaan alla olevas
 <br />
 
 
-## Vain hyvä PSLAX M-moodille
+## Hae hyvä PSLAX
 
 UKG-laite käynnistyy tavanomaisessa 2D-moodissa. Kyseisessä moodissa aivan ensimmäiseksi haetaan sydämestä hyvä PSLAX-projektio (Fig. \@ref(fig:mmoodimallikuva)). Heikkotasoista kuvaa ei pysty käyttämään luotettavasti M-moodimittauksiin.
 
@@ -36,7 +36,7 @@ Tämän jälkeen valitaan sopiva leikkauslinja liikuttelemalla kursoria UKG-lait
 
 
 
-## Pysty sydän - ei M-moodia
+## Pysty sydän
 
 Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysydan)), M-moodi ei katkaise vasenta kammiota kohtisuoraan, jolloin tuloksena on **liian vino leike vasemmasta kammiosta**. Tämä mm. yliarvioi vasemman kammion poikkimittaa. Jos kunnollista kohtisuoraa leikettä ei saa aikaiseksi, ei kannata haaskata aikaa M-moodin kanssa vaan käyttää vaihtoehtoisia mittaustapoja. Niistä lisää jäljempänä.
 
@@ -51,7 +51,7 @@ Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysy
 <br />
 
 
-## M-moodista mitattavat suureet
+## Mitattavat suureet
 
 Jos riittävän laadukas PSLAX-projektio ja sopiva katkaisulinja on saatu näkyviin, painetaan UKG-laitteesta nappulaa ***M-mode***.
 
@@ -213,6 +213,34 @@ Huomaa, että mitat ilmaistaan tässä yhteydessä millimetreissä, ilman yksik�
 ```{r mmodelvidsmagnified, out.width = '100%', echo=FALSE, fig.cap="(ref:mmodelvidsmagnified)", fig.margin = TRUE}
  knitr::include_graphics("images/mmodelvidsmagnified.jpg")
 ```
+
+
+
+<br />
+
+## LVEF:n 2D-mittaus
+
+Jos sopivaa leikkauslinjaa laadukasta M-moodia varten ei saada näkyviin, mikään ei estä mittaamasta vasemman kammion läpimittaa diastolessa ja systolessa suoraan 2D-kuvasta  (Fig. \@ref(fig:mmoodimallikuva)).
+
+Heti kun nämä mittaukset on tehty rakenteisesti, UKG-laite ilmoittaa vasemman kammion ejektiofraktion.
+
+Tärkeintä on, että haet LVIDd- ja LVIDs-mitat Calc-nappulan takaa alavalikosta Dimensions, jotta UKG-laite tajuaa, mitä mittoja yrität parhaillaan ottaa.
+
+***Toisin sanoen älä tee näitä mittauksia Caliper-painikkeella.*** 
+
+<br />
+
+(ref:2defmittaus) Vasemman kammion ejektiofraktion mittaus 2D-moodissa.
+
+```{r 2defmittaus, out.width = '100%', echo=FALSE, fig.cap="(ref:2defmittaus)", fig.margin = TRUE}
+ knitr::include_graphics("images/2d_ef_mittaus.png")
+```
+
+<br />
+
+
+
+
 
 <br/>
 <br/>

@@ -41,7 +41,7 @@ tibble::tribble(
                                             "Alaonttolaskimo",                    "IVC",          "mm", "Yksi tapa ilmaista:\"20/10\" (jälkimmäinen viittaa arvoon inspiriumissa)",
                                  "Systolinen pulmonaalipaine",                   "sPAP",        "mmHg",                                                                         " ",
                                                            " ",                       " ",            " ",                                                                         " ",
-                                                          "*",                      "*",           "*",                                                                        "*",
+                                                          "**Läppälöydöksiä:**",                      " ",           " ",                                                                        " ",
                                                            " ",                       " ",            " ",                                                                         " ",
                                         "Mitraaliläpän vuoto",                     "MR",            " ",                                                                         " ",
                                      "Mitraaliläpän stenoosi",                     "MS",            " ",                                                                         " ",

@@ -31,7 +31,7 @@ Aloitteleva ekkoaja huomaa piakkoin, että Caliper-painikkeella saa täysin sama
 
 ***Nyrkkisääntö on, että jos jo Caliper-painikkeella vilkaistu nopeus on vähintään 4 m/s (vastaa 65 mmHg:n eroa vasemman kammion ja aortan välillä), vaikea-asteisen aorttastenoosin diagnoosi on selvä, eikä kliinikko välttämättä tarvitse tarkempia, Calc-nappulan takaa avautuvia mittauksia.***
 
-Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei vielä vaikea-asteiseen aorttastenoosiin, kannattaa vielä mitata aorttaläpän avautumispinta-ala jatkuvuusyhtälöä hyödyntäen. Tällöin Caliper-nappulalla mitattu nopeus ei kelpaa yhtälöön, koska UKG-laite ei tajua, minkä nopeuden ekkoaja on sillä mitannut - mittaus täytyy tallentaa UKG-laitteeseen rakenteisesti AV Vmax -suureeksi (tai AV VTI -suureeksi).
+Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei vielä vaikea-asteiseen aorttastenoosiin, kannattaa lisäksi mitata aorttaläpän avautumispinta-ala jatkuvuusyhtälöä hyödyntäen. Tällöin Caliper-nappulalla mitattu nopeus ei kelpaa yhtälöön, koska UKG-laite ei tajua, minkä nopeuden ekkoaja on sillä mitannut - mittaus täytyy tehdä rakenteisesti AV Vmax -suureena (tai AV VTI -suureena).
 
 
 <br/>
