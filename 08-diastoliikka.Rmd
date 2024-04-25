@@ -96,6 +96,14 @@ Huom. Jos tutkittava on eteisvärinässä, jälleenkään A-aaltoa (tai kudosdop
 
 <br />
 
+## Tulkinta
+
+E- ja A-aaltojen tulkintaa käsiteltiin yllä (Fig. \@ref(fig:mitraalisisaanvirtaus)). 
+
+Kun sekä E- että e'-aalto on mitattu rakenteisesti (eli mittauksen yhteydessä merkitty E-aallon mittaus Calc-nappulan takaa alavalikosta Mitral Valve löytyvällä suureella MV Peak E Vel ja e'-aalto vastaavasti alavalikosta TDI löytyvällä suureella Lat E' Vel), UKG-kone laskee automaattisesti E/Lat E' -suhteen.
+
+Jos E/Lat E' on yli 13, tulos on poikkeava ja viitteellinen suurentuneelle vasemman kammion täyttöpaineelle (diastoliselle vialle).
+
 
 <br/>
 <br/>

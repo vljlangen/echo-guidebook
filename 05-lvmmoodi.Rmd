@@ -220,7 +220,7 @@ Huomaa, että mitat ilmaistaan tässä yhteydessä millimetreissä, ilman yksik�
 
 ## LVEF:n 2D-mittaus
 
-Jos sopivaa leikkauslinjaa laadukasta M-moodia varten ei saada näkyviin, mikään ei estä mittaamasta vasemman kammion läpimittaa diastolessa ja systolessa suoraan 2D-kuvasta  (Fig. \@ref(fig:mmoodimallikuva)).
+Jos sopivaa leikkauslinjaa laadukasta M-moodia varten ei saada näkyviin, mikään ei estä mittaamasta vasemman kammion läpimittaa diastolessa ja systolessa suoraan 2D-kuvasta  (Fig. \@ref(fig:2defmittaus)).
 
 Heti kun nämä mittaukset on tehty rakenteisesti, UKG-laite ilmoittaa vasemman kammion ejektiofraktion.
 

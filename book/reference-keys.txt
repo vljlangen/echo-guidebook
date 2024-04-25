@@ -82,3 +82,4 @@ aorttastenoosi
 visuaalinen-tarkastelu
 väridoppler
 jatkuva-doppler
+tulkinta
