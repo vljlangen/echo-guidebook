@@ -70,6 +70,30 @@ Koska yllä mainitut skenaariot 1 ja 3 muistuttavat visuaalisesti toisiaan  (Fig
 
 
 
+
+## Kudosdoppler
+
+Perinteisellä dopplerilla tehdään mittauksia veren virtauksista sydämessä. Kudosdopplerilla (TDI) sen sijaan tarkastellaan myokardiumin nopeuksia.
+
+Diastoliikkaa arvioitaessa kursori viedään pallohiirellä mitraaliläppärenkaan heti lateraalipuolelle vasemman kammion ja vasemman eteisen väliselle myokardiumin alueelle. UKG-laitteesta painetaan painiketta TDI ja heti perään painiketta PW. Täten tarkasteltuna nähdään kudosdopplerilla E- ja A-aalto ikään kuin käänteisinä, alaspäin suuntautuvina (Fig. \@ref(fig:diastoliikkatdi)). Näitä kutsutaan e'- ja a'-aalloiksi tässä yhteydessä (lausutaan englanniksi "e prime" ja "a prime").
+
+Huom. Jos tutkittava on eteisvärinässä, jälleenkään A-aaltoa (tai kudosdopplerin yhteydessä oikeammin kutsuttuna a'-aaltoa) ei nähdä.
+
+
+
+
+<br />
+
+
+(ref:diastoliikkatdi) Kudosdopplerilla tehtävä mittaus diastoliikan arvioinnissa. Huomaa sinipunainen kuva, joka nähdään aktivoituneen kudosdopplerin osoituksena.
+
+```{r diastoliikkatdi, out.width = '100%', echo=FALSE, fig.cap="(ref:diastoliikkatdi)"}
+ knitr::include_graphics("images/diastoliikka_tdi4.png")
+```
+
+ 
+
+
 <br />
 
 

@@ -28,6 +28,7 @@ fig:annulus
 fig:vaseneteinen
 fig:diastoliikkapw
 fig:mitraalisisaanvirtaus
+fig:diastoliikkatdi
 fig:ivc
 tab:cvp
 fig:keuhkot
@@ -70,6 +71,7 @@ la-sydämen-pitkä-sokeri
 lan-tarkemmat-viitearvot
 diastoliikka
 e--ja-a-aalto
+kudosdoppler
 ivcn-mittaus
 d-kuvamittaus
 cvpn-päättely-ivcstä
