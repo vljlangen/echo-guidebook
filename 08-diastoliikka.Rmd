@@ -30,10 +30,10 @@ E- ja A-aalto mitataan nelilokerokuvasta, sijoittamalla kursori (näytteenottopi
 <br />
 
 
-(ref:diastoliikkapw) Mitraalisisäänvirtauksen mittaus nelilokerokuvasta.
+(ref:diastoliikkapw) Mitraalisisäänvirtauksen pulssidopplermittaus nelilokerokuvasta. Tässä kuvitteellisessä esimerkkitapauksessa tutkittava on eteisvärinässä, joten pelkästään E-aallot näkyvät.
 
 ```{r diastoliikkapw, out.width = '100%', echo=FALSE, fig.cap="(ref:diastoliikkapw)"}
- knitr::include_graphics("images/diastoliikka_ea_aallot2.png")
+ knitr::include_graphics("images/diastoliikka_ea_aallot3.png")
 ```
 
 
@@ -85,7 +85,7 @@ Huom. Jos tutkittava on eteisvärinässä, jälleenkään A-aaltoa (tai kudosdop
 <br />
 
 
-(ref:diastoliikkatdi) Kudosdopplerilla tehtävä mittaus diastoliikan arvioinnissa. Huomaa sinipunainen kuva, joka nähdään aktivoituneen kudosdopplerin osoituksena.
+(ref:diastoliikkatdi) Kudosdopplerilla tehtävä mittaus diastoliikan arvioinnissa. Huomaa sinipunainen kuva, joka nähdään kudosdopplerin käynnistymisen osoituksena.
 
 ```{r diastoliikkatdi, out.width = '100%', echo=FALSE, fig.cap="(ref:diastoliikkatdi)"}
  knitr::include_graphics("images/diastoliikka_tdi4.png")
@@ -102,7 +102,7 @@ E- ja A-aaltojen tulkintaa käsiteltiin yllä (Fig. \@ref(fig:mitraalisisaanvirt
 
 Kun sekä E- että e'-aalto on mitattu rakenteisesti (eli mittauksen yhteydessä merkitty E-aallon mittaus Calc-nappulan takaa alavalikosta Mitral Valve löytyvällä suureella MV Peak E Vel ja e'-aalto vastaavasti alavalikosta TDI löytyvällä suureella Lat E' Vel), UKG-kone laskee automaattisesti E/Lat E' -suhteen.
 
-Jos E/Lat E' on yli 13, tulos on poikkeava ja viitteellinen suurentuneelle vasemman kammion täyttöpaineelle (diastoliselle vialle).
+[Jos E/Lat E' on yli 13, tulos on poikkeava](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968995/) ja viitteellinen suurentuneelle vasemman kammion täyttöpaineelle (diastoliselle vialle).
 
 
 <br/>
