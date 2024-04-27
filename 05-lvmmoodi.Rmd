@@ -1,4 +1,4 @@
-# LV:n mitat ja LVEF M-moodilla
+# Vasemman kammion mitat
 
 ## M-moodi
 
@@ -29,16 +29,16 @@ Tämän jälkeen valitaan sopiva leikkauslinja liikuttelemalla kursoria UKG-lait
 (ref:mmoodimallikuva) Laadukas PSLAX-projektio ja oikeaoppinen katkaisulinja.
 
 ```{r mmoodimallikuva, out.width = '100%', echo=FALSE, fig.cap="(ref:mmoodimallikuva)", fig.margin = TRUE}
- knitr::include_graphics("images/mmoodi_mallikuva.jpg")
+ knitr::include_graphics("images/mmoodi_mallikuva2.png")
 ```
 
 <br />
 
 
 
-## Pysty sydän
+## Ongelmana pysty sydän
 
-Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysydan)), M-moodi ei katkaise vasenta kammiota kohtisuoraan, jolloin tuloksena on **liian vino leike vasemmasta kammiosta**. Tämä mm. yliarvioi vasemman kammion poikkimittaa. Jos kunnollista kohtisuoraa leikettä ei saa aikaiseksi, ei kannata haaskata aikaa M-moodin kanssa vaan käyttää vaihtoehtoisia mittaustapoja. Niistä lisää jäljempänä.
+Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysydan)), M-moodi ei katkaise vasenta kammiota kohtisuoraan, jolloin tuloksena on **liian vino leike vasemmasta kammiosta**. Tämä mm. yliarvioi vasemman kammion poikkimittaa. Jos kunnollista kohtisuoraa leikettä ei saa aikaiseksi, ei kannata haaskata aikaa M-moodin kanssa vaan käyttää esimerkiksi 2D-kuvasta tehtävää LVEF:n mittausta, joka on kuvattu jäljempänä alaluvussa \@ref(lvef2d).
 
 <br />
 
@@ -218,7 +218,7 @@ Huomaa, että mitat ilmaistaan tässä yhteydessä millimetreissä, ilman yksik�
 
 <br />
 
-## LVEF:n 2D-mittaus
+## LVEF:n 2D-mittaus{#lvef2d}
 
 Jos sopivaa leikkauslinjaa laadukasta M-moodia varten ei saada näkyviin, mikään ei estä mittaamasta vasemman kammion läpimittaa diastolessa ja systolessa suoraan 2D-kuvasta  (Fig. \@ref(fig:2defmittaus)).
 
@@ -226,7 +226,9 @@ Heti kun nämä mittaukset on tehty rakenteisesti, UKG-laite ilmoittaa vasemman 
 
 Tärkeintä on, että haet LVIDd- ja LVIDs-mitat Calc-nappulan takaa alavalikosta Dimensions, jotta UKG-laite tajuaa, mitä mittoja yrität parhaillaan ottaa.
 
-***Toisin sanoen älä tee näitä mittauksia Caliper-painikkeella.*** 
+<br />
+
+***Toisin sanoen älä tee näitä mittauksia "nimettömän mittauksen" Caliper-painikkeella!*** 
 
 <br />
 

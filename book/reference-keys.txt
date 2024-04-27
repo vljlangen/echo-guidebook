@@ -86,3 +86,8 @@ tulkinta
 e--ja-a-aallot-tulkinta
 kudosdoppler-tdi
 tdin-tulkinta
+lvn-mitat
+vasemman-kammion-mitat
+ongelmana-pysty-sydän
+lvefn-2d-mittauslvef2d
+lvef2d
