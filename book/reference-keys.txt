@@ -83,3 +83,6 @@ visuaalinen-tarkastelu
 väridoppler
 jatkuva-doppler
 tulkinta
+e--ja-a-aallot-tulkinta
+kudosdoppler-tdi
+tdin-tulkinta
