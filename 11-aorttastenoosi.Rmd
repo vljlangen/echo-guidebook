@@ -35,7 +35,70 @@ Jatkuva doppler on erittäin keskeinen aorttastenoosin diagnostiikassa. Mittauks
 ```
 <br />
 
-Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei vielä vaikea-asteiseen aorttastenoosiin, kannattaa lisäksi mitata aorttaläpän avautumispinta-ala jatkuvuusyhtälöä hyödyntäen. Tällöin Caliper-nappulalla mitattu nopeus ei kelpaa yhtälöön, koska UKG-laite ei tajua, minkä nopeuden ekkoaja on sillä mitannut - mittaus täytyy tehdä rakenteisesti AV Vmax -suureena (tai AV VTI -suureena).
+Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei vielä vaikea-asteiseen aorttastenoosiin, kannattaa lisäksi mitata aorttaläpän avautumispinta-ala (AVA) jatkuvuusyhtälöä hyödyntäen. Tällöin Caliper-nappulalla mitattu nopeus ei kelpaa yhtälöön, koska UKG-laite ei tajua, minkä nopeuden ekkoaja on sillä mitannut - mittaus täytyy tehdä rakenteisesti AV Vmax -suureena (tai AV VTI -suureena).
+
+
+
+
+
+
+
+## Avautumispinta-ala (AVA)
+
+Aorttaläpän avautumispinta-alan (AVAn) mittaus suoritetaan jatkuvuusyhtälöä hyödyntäen. Onneksi jatkuvuusyhtälöä ei tarvitse itse syöttää, vaan UKG-laite laskee ja ilmoittaa sen välittömästi, kun seuraavat kolme suuretta on mitattu rakenteisesti (eli Calc-nappulan takaa avautuvia suureita mitatessa valiten):
+
+1. Vasemman ulosvirtauskanavan (LVOT:n) läpimitta (Fig. \@ref(fig:lvotdiam))
+2. Veren virtauksen nopeus aorttaläpän yli (Fig. \@ref(fig:asavmax))
+3. Veren virtauksen nopeus ulosvirtauskanavassa (Fig. \@ref(fig:lvotpw))
+
+Jatkuvuusyhtälö on ihan maalaisjärjellä ymmärrettävissä oleva asia. Jos tiedämme veren virtaukseen liittyviä keskeisiä suureita LVOT:n kohdalla, veri ei voi hävitä minnekään madonreikään vaan sen on pakko käydä matkansa aorttaläpän läpi. Täten LVOT:sta tehty läpimitan (ja samalla pinta-alan) ja veren virtauksen määrä auttaa laskemaan aorttaläpän avautumispinta-alan, kun tiedämme veren virtauksen myös aorttaläpän kohdalla.
+
+Aivan ensimmäiseksi on mitattava LVOT:n läpimitta (josta UKG-laite sitten määrittää automaattisesti LVOT:n pinta-alan). LVOT:n mittaus tehdään rakenteisesti 2D-kuvasta (Fig. \@ref(fig:lvotdiam)).
+
+***Huom. Älä käytä Caliper-painiketta LVOT:n mittaamiseen, koska silloin UKG-laite ei tiedä minkä rakenteen olet mitannut.*** 
+
+
+<br />
+
+(ref:lvotdiam) Vasemman ulosvirtauskanavan (LVOT:n) läpimitan mittaus.
+
+```{r lvotdiam, out.width = '100%', echo=FALSE, fig.cap="(ref:lvotdiam)"}
+ knitr::include_graphics("images/lvot2.png")
+```
+
+<br />
+
+
+Tämän jälkeen tehdään jatkuvalla dopplerilla mittaus aorttaläpän yli. Jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä jatkuvan dopplerin signaalista aorttaläpän yli. Näin toimiessa saadaan maksmigradientin ohella kylkiäisenä myös keskigradientti aorttaläpän yli, ja ne kumpikin yleensä dokumentoidaan UKG-lausunnossa (Fig. \@ref(fig:asavmax)).
+
+
+<br />
+
+(ref:asavmax) Vasemman ulosvirtauskanavan (LVOT:n) läpimittan mittaus.
+
+```{r asavmax, out.width = '100%', echo=FALSE, fig.cap="(ref:asavmax)"}
+ knitr::include_graphics("images/aorttastenoosi_avmax3.png")
+```
+
+<br />
+
+
+Lopuksi mitataan vielä virtausnopeus pulssidopplerilla vasemmasta ulosvirtauskanavasta (LVOT:sta). Tässäkin jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä pulssidopplerin signaalista. Samalla saadaan AVAn lisäksi kylkiäisenä selville myös vasemman kammion iskutilavuus (stroke volume, SV), ja sekin voidaan dokumentoida UKG-lausunnossa. UKG-laite ilmoittaa AVA:n ja SV:n välittömästi kun LVOT:n läpimitta, virtausnopeus aorttaläpästä ja virtausnopeus LVOT:sta ovat mitattuina (Fig. \@ref(fig:lvotpw)).
+
+
+<br />
+
+(ref:lvotpw) Vasemman ulosvirtauskanavan (LVOT:n) läpimittan mittaus.
+
+```{r lvotpw, out.width = '100%', echo=FALSE, fig.cap="(ref:lvotpw)"}
+ knitr::include_graphics("images/aorttastenoosi_lvot.png")
+```
+
+<br />
+
+
+
+
 
 
 <br/>

@@ -85,3 +85,7 @@ visuaalinen-tarkastelu
 väridoppler
 jatkuva-doppler
 fig:avgradientti
+fig:lvotpw
+avautumispinta-ala-ava
+fig:lvotdiam
+fig:asavmax
