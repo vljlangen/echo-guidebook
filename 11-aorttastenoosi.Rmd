@@ -93,7 +93,7 @@ Tämän jälkeen tehdään jatkuvalla dopplerilla (CW) mittaus aorttaläpän yli
 
 Lopuksi mitataan vielä virtausnopeus pulssidopplerilla (PW) vasemmasta ulosvirtauskanavasta (LVOT:sta). Tässäkin jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä pulssidopplerin signaalista. Samalla saadaan AVAn lisäksi kylkiäisenä selville myös vasemman kammion iskutilavuus (stroke volume, SV), ja sekin voidaan dokumentoida UKG-lausunnossa. UKG-laite ilmoittaa AVA:n ja SV:n välittömästi kun LVOT:n läpimitta, virtausnopeus aorttaläpästä ja virtausnopeus LVOT:sta ovat mitattuina (Fig. \@ref(fig:lvotpw)).
 
-***Jos UKG-laite ei ilmoita iskutilavuutta ja AVAa, teit jotain väärin. Tee uudelleen kaikki alakappaleessa \@ref(AVA) mainitut mittaukset rauhassa, muistaen koko ajan välttää Caliper-nappulaa juuri näissä mittauksissa.***
+
 
 
 <br />
@@ -107,7 +107,7 @@ Lopuksi mitataan vielä virtausnopeus pulssidopplerilla (PW) vasemmasta ulosvirt
 <br />
 
 
-
+***Jos UKG-laite ei ilmoita iskutilavuutta ja AVAa, teit jotain väärin. Tee uudelleen kaikki alakappaleessa \@ref(AVA) mainitut mittaukset rauhassa, muistaen koko ajan välttää Caliper-nappulaa juuri näissä mittauksissa.***
 
 
 
