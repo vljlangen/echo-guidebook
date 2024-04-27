@@ -20,16 +20,20 @@ Aina kun aorttaläppäpositiossa nähdään turbulentti virtaus, tulee epäillä
 
 ## Jatkuva doppler
 
-Jatkuva doppler on erittäin keskeinen aorttastenoosin diagnostiikassa. Mittauksen vaiheet on lueteltu alla:
+Jatkuva doppler on erittäin keskeinen aorttastenoosin diagnostiikassa. Mittauksen vaiheet on kuvattu alla (Fig. \@ref(fig:avgradientti)).
 
-1. 2D-kuvassa haetaan ensin edustava viisilokerokuva
-2. Näytteenottoviiva ohjataan pallohiirellä osumaan vasemman kammion kärjestä aorttaläpän yli
-3. Painetaan CW-nappulaa, joka käynnistää jatkuvan dopplerin
-4. Edustavan varjokäyrän alin (= nopein) lukema mitataan joko Caliper-painikkeella tai Calc-nappulan takaa valikosta Aortic Valve löytyvällä suureella AV Vmax
+***Oma nyrkkisääntöni on, että jos jo Caliper-painikkeella vilkaistu nopeus on vähintään 4 m/s (vastaa 65 mmHg:n eroa vasemman kammion ja aortan välillä), vaikea-asteisen aorttastenoosin diagnoosi on selvä, eikä kliinikko välttämättä tarvitse tarkempia, Calc-nappulan takaa avautuvia mittauksia.***
 
-Aloitteleva ekkoaja huomaa piakkoin, että Caliper-painikkeella saa täysin saman lukeman kuin nimeämällä mittauksen Calc-nappulan takaa löytyväksi AV Vmax -suureeksi.
 
-***Nyrkkisääntö on, että jos jo Caliper-painikkeella vilkaistu nopeus on vähintään 4 m/s (vastaa 65 mmHg:n eroa vasemman kammion ja aortan välillä), vaikea-asteisen aorttastenoosin diagnoosi on selvä, eikä kliinikko välttämättä tarvitse tarkempia, Calc-nappulan takaa avautuvia mittauksia.***
+
+<br />
+
+(ref:avgradientti) Gradientin mittaus "nimettömästi" Caliper-painikkeella aorttaläpän yli jatkuvan dopplerin signaalista.
+
+```{r avgradientti, out.width = '100%', echo=FALSE, fig.cap="(ref:avgradientti)"}
+ knitr::include_graphics("images/aorttastenoosin_mittaus2.png")
+```
+<br />
 
 Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei vielä vaikea-asteiseen aorttastenoosiin, kannattaa lisäksi mitata aorttaläpän avautumispinta-ala jatkuvuusyhtälöä hyödyntäen. Tällöin Caliper-nappulalla mitattu nopeus ei kelpaa yhtälöön, koska UKG-laite ei tajua, minkä nopeuden ekkoaja on sillä mitannut - mittaus täytyy tehdä rakenteisesti AV Vmax -suureena (tai AV VTI -suureena).
 

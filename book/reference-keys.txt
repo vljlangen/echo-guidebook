@@ -84,3 +84,4 @@ aorttastenoosi
 visuaalinen-tarkastelu
 väridoppler
 jatkuva-doppler
+fig:avgradientti
