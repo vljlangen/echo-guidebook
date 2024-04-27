@@ -43,7 +43,7 @@ Varsinkin jos Caliper-nappulalla vilkaistu nopeus viittaa kohtalaiseen mutta ei 
 
 
 
-## Avautumispinta-ala (AVA)
+## Avautumispinta-ala (AVA){#AVA}
 
 Aorttaläpän avautumispinta-alan (AVAn) mittaus suoritetaan jatkuvuusyhtälöä hyödyntäen. Onneksi jatkuvuusyhtälöä ei tarvitse itse syöttää, vaan UKG-laite laskee ja ilmoittaa sen välittömästi, kun seuraavat kolme suuretta on mitattu rakenteisesti (eli Calc-nappulan takaa avautuvia suureita mitatessa valiten):
 
@@ -51,9 +51,11 @@ Aorttaläpän avautumispinta-alan (AVAn) mittaus suoritetaan jatkuvuusyhtälöä
 2. Veren virtauksen nopeus aorttaläpän yli (Fig. \@ref(fig:asavmax))
 3. Veren virtauksen nopeus ulosvirtauskanavassa (Fig. \@ref(fig:lvotpw))
 
-Jatkuvuusyhtälö on ihan maalaisjärjellä ymmärrettävissä oleva asia. Jos tiedämme veren virtaukseen liittyviä keskeisiä suureita LVOT:n kohdalla, veri ei voi hävitä minnekään madonreikään vaan sen on pakko käydä matkansa aorttaläpän läpi. Täten LVOT:sta tehty läpimitan (ja samalla pinta-alan) ja veren virtauksen määrä auttaa laskemaan aorttaläpän avautumispinta-alan, kun tiedämme veren virtauksen myös aorttaläpän kohdalla.
+Jatkuvuusyhtälö on ihan maalaisjärjellä ymmärrettävissä oleva asia. Voimme mitata veren virtaukseen liittyviä keskeisiä suureita LVOT:n kohdalla ja samaan aikaan tiedämme, ettei veri voi hävitä minnekään madonreikään LVOT:n jälkeen vaan sen on pakko käydä matkansa aorttaläpän läpi. Täten LVOT:sta tehty läpimitan (ja samalla pinta-alan) ja veren virtauksen määrä auttaa laskemaan aorttaläpän avautumispinta-alan, kun tiedämme veren virtauksen myös aorttaläpän kohdalla.
 
-Aivan ensimmäiseksi on mitattava LVOT:n läpimitta (josta UKG-laite sitten määrittää automaattisesti LVOT:n pinta-alan). LVOT:n mittaus tehdään rakenteisesti 2D-kuvasta (Fig. \@ref(fig:lvotdiam)).
+### LVOT:n läpimitta
+
+Aivan ensimmäiseksi on mitattava LVOT:n läpimitta, josta UKG-laite sitten määrittää automaattisesti myös LVOT:n pinta-alan. LVOT:n mittaus tehdään rakenteisesti 2D-kuvasta (Fig. \@ref(fig:lvotdiam)).
 
 ***Huom. Älä käytä Caliper-painiketta LVOT:n mittaamiseen, koska silloin UKG-laite ei tiedä minkä rakenteen olet mitannut.*** 
 
@@ -69,7 +71,10 @@ Aivan ensimmäiseksi on mitattava LVOT:n läpimitta (josta UKG-laite sitten mä�
 <br />
 
 
-Tämän jälkeen tehdään jatkuvalla dopplerilla mittaus aorttaläpän yli. Jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä jatkuvan dopplerin signaalista aorttaläpän yli. Näin toimiessa saadaan maksmigradientin ohella kylkiäisenä myös keskigradientti aorttaläpän yli, ja ne kumpikin yleensä dokumentoidaan UKG-lausunnossa (Fig. \@ref(fig:asavmax)).
+### CW-mittaus aorttaläpän yli
+
+
+Tämän jälkeen tehdään jatkuvalla dopplerilla (CW) mittaus aorttaläpän yli. Jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä jatkuvan dopplerin signaalista aorttaläpän yli. Näin toimiessa saadaan maksimigradientin ohella kylkiäisenä myös keskigradientti aorttaläpän yli, ja ne kumpikin yleensä dokumentoidaan UKG-lausunnossa (Fig. \@ref(fig:asavmax)).
 
 
 <br />
@@ -83,7 +88,12 @@ Tämän jälkeen tehdään jatkuvalla dopplerilla mittaus aorttaläpän yli. Jat
 <br />
 
 
-Lopuksi mitataan vielä virtausnopeus pulssidopplerilla vasemmasta ulosvirtauskanavasta (LVOT:sta). Tässäkin jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä pulssidopplerin signaalista. Samalla saadaan AVAn lisäksi kylkiäisenä selville myös vasemman kammion iskutilavuus (stroke volume, SV), ja sekin voidaan dokumentoida UKG-lausunnossa. UKG-laite ilmoittaa AVA:n ja SV:n välittömästi kun LVOT:n läpimitta, virtausnopeus aorttaläpästä ja virtausnopeus LVOT:sta ovat mitattuina (Fig. \@ref(fig:lvotpw)).
+### PW-mittaus LVOT:sta
+
+
+Lopuksi mitataan vielä virtausnopeus pulssidopplerilla (PW) vasemmasta ulosvirtauskanavasta (LVOT:sta). Tässäkin jatkuvuusyhtälöön kelpaisi pelkkä maksiminopeuden mittaus, mutta on konventio piirtää koko varjokäyrä pulssidopplerin signaalista. Samalla saadaan AVAn lisäksi kylkiäisenä selville myös vasemman kammion iskutilavuus (stroke volume, SV), ja sekin voidaan dokumentoida UKG-lausunnossa. UKG-laite ilmoittaa AVA:n ja SV:n välittömästi kun LVOT:n läpimitta, virtausnopeus aorttaläpästä ja virtausnopeus LVOT:sta ovat mitattuina (Fig. \@ref(fig:lvotpw)).
+
+***Jos UKG-laite ei ilmoita iskutilavuutta ja AVAa, teit jotain väärin. Tee uudelleen kaikki alakappaleessa \@ref(AVA) mainitut mittaukset rauhassa, muistaen koko ajan välttää Caliper-nappulaa juuri näissä mittauksissa.***
 
 
 <br />

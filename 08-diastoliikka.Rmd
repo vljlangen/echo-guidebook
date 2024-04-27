@@ -10,6 +10,9 @@ Varsinkin aloittelevan ekkoajan kannattaisi mielestäni aloittaa seuraavasta kol
 
 Edellisiä kolmea voivat vielä tarvittaessa tukea vasemman eteisen koon ja pulmonaalipaineen UKG-mittaukset.
 
+***Käytännössä diastoliikan UKG-mittauksilla yritetään veikata, onko tutkittavan vasemman kammion täyttöpaine normaali vaiko epänormaali. Todellista täyttöpainettahan emme saisi selville kuin viemällä painevaijerin kajoavasti tutkittavan sydämeen.***
+
+
 ## E- ja A-aalto
 
 Jos tutkittava on sinusrytmissä, nähdään diastolessa mitraaliläpän avautuessa pulssidopplerilla tarkastellen kaksi erillistä aaltoa, jotka kuvaavat veren virtaamista vasempaan kammioon:
@@ -111,9 +114,10 @@ E- ja A-aaltojen tulkintaa käsiteltiin yllä (Fig. \@ref(fig:mitraalisisaanvirt
 
 Kun sekä E- että E'-aalto on mitattu rakenteisesti (eli mittauksen yhteydessä merkitty E-aallon mittaus Calc-nappulan takaa alavalikosta Mitral Valve löytyvällä suureella MV Peak E Vel ja E'-aalto vastaavasti alavalikosta TDI löytyvällä suureella Lat E' Vel), UKG-kone laskee automaattisesti E/Lat E' -suhteen.
 
+[Tutkimuksissa on todettu](https://pubmed.ncbi.nlm.nih.gov/12633827/), että E/E'-suhde on suorassa yhteydessä keuhkokapillaarien kiilapaineeseen (PCWP:hen) ja siten käytännössä vasemman kammion täyttöpaineeseen.
+
 ***Jos E/Lat E' on yli 13, tulos on poikkeava*** ja viitteellinen suurentuneelle vasemman kammion täyttöpaineelle (diastoliselle vialle) [alan kattojärjestöjen mukaan](https://www.asecho.org/guideline/recommendations-for-the-evaluation-of-left-ventricular-diastolic-function-by-echocardiography-an-update-from-the-american-society-of-echocardiography-and-the-european-association-of-cardiovascular-im/).
 
- 
 
 
 <br/>

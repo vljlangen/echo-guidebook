@@ -89,3 +89,7 @@ fig:lvotpw
 avautumispinta-ala-ava
 fig:lvotdiam
 fig:asavmax
+lvotn-läpimitta
+cw-mittaus-aorttaläpän-yli
+pw-mittaus-lvotsta
+AVA
