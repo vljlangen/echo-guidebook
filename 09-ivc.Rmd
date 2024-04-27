@@ -10,6 +10,8 @@ IVC:stä otetaan kuvatallenne sekä ekspiriumin ja inspiriumin aikana. Erikseen 
 
 Suosittelen, että yrität saada hieman näkymää myös oikeaan eteiseen (Fig. \@ref(fig:ivc)). IVC yhdistyy oikeaan eteiseen, jolloin voit olla varma, että olet ottamassa mittauksia juuri IVC:stä. Vihje: voit vaihdella näkymää IVC:n ja vatsa-aortan välillä kallistelemalla anturia vuorotellen maksaa (IVC-näkymä) tai pernaa (aorttanäkymä) kohden.
 
+***Huom! IVC-mittauksiin ei tule luottaa sokeasti potilaan nestetasapainoa arvioitaessa.***
+Suosittelen lukemaan esimerkiksi [Marikin ja kollegoiden katsauksen aiheesta.](https://www.sciencedirect.com/science/article/pii/S0012369208601634)
 
 <br />
 

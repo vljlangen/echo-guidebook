@@ -112,7 +112,7 @@ Huom. Jos tutkittava on eteisvärinässä, jälleenkään A-aaltoa (tai kudosdop
 
 E- ja A-aaltojen tulkintaa käsiteltiin yllä (Fig. \@ref(fig:mitraalisisaanvirtaus)). 
 
-Kun sekä E- että E'-aalto on mitattu rakenteisesti (eli mittauksen yhteydessä merkitty E-aallon mittaus Calc-nappulan takaa alavalikosta Mitral Valve löytyvällä suureella MV Peak E Vel ja E'-aalto vastaavasti alavalikosta TDI löytyvällä suureella Lat E' Vel), UKG-kone laskee automaattisesti E/Lat E' -suhteen.
+Kun sekä E- että E'-aalto on mitattu rakenteisesti (Calc-nappulan avulla nimetysti), UKG-kone laskee automaattisesti E/Lat E' -suhteen.
 
 [Tutkimuksissa on todettu](https://pubmed.ncbi.nlm.nih.gov/12633827/), että E/E'-suhde on suorassa yhteydessä keuhkokapillaarien kiilapaineeseen (PCWP:hen) ja siten käytännössä vasemman kammion täyttöpaineeseen.
 
