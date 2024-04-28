@@ -1,16 +1,15 @@
 # Vasen eteinen (LA)
 
 
-
 ## LA:n mittaus
 
 Vasemman eteisen koko riippuu tutkittavan koosta. Aloittelija voi kuitenkin painaa mieleensä, että poikkimitan **karkea viiteyläraja on 4 cm**.
 
 Vasemman eteisen mittaus ajoitetaan loppusystoleen. Käytännössä ajoituksesta ei kannata ottaa stressiä, sillä **mittaaja voi yksinkertaisesti pyrkiä valitsemaan sellaisen leikkeen (framen), jossa vasen eteinen näyttää olevan suurimmillaan**.
 
-Mittaus 2D-kuvasta suoritetaan yksinkertaisimmin UKG-laitteen **Caliper-painikkeella** (Fig. \@ref(fig:caliper)). Vasemman eteisen "katossa" näkyvä Valsalvan sinus merkitään hiiren vasemmalla painikkeella ja vasemman eteisen takaseinä suoraan Print-painikkeella (Fig. \@ref(fig:vaseneteinen)) PSLAX-projektiossa.
+Mittaus 2D-kuvasta suoritetaan yksinkertaisimmin UKG-laitteen **Caliper-painikkeella** (ks. luku \@ref(caliper)). Vasemman eteisen "katossa" näkyvä Valsalvan sinus merkitään hiiren vasemmalla painikkeella ja vasemman eteisen takaseinä suoraan Print-painikkeella (Kuva \@ref(fig:vaseneteinen)) PSLAX-projektiossa.
 
-<br />
+<br/>
 
 (ref:vaseneteinen) Vasen eteinen mitataan janalla, joka ulottuu Valsalvan sinuksesta vasemman eteisen takaseinään loppusystolessa. Janan suunnan pitää olla kohtisuorassa aortan tyven kuviteltavaan pitkittäisakseliin.
 

@@ -101,6 +101,25 @@ Joskus anturin ventraalinen kallistus tuntuu hävittävän näkyvyyden kokonaan,
 
 
 
+## Subkostaaliprojektio
+
+Subkostaaliprojektio saadaan sijoittamalla anturi vertikaalisesti heti miekkalisäkkeen kaudaalipuolelle, anturin "nypy" osoitettuna kraniaalisesti. Usein pieni kraniaalinen taivutus kohti sydäntä auttaa visualisoimaan oikean eteisen mukaan kuvaan (Kuva \@ref(fig:subkprojektio)). Lisäksi pieni maksaa kohden suunnattu taivutus, jota kutsun "maksatilttaukseksi", voi auttaa visualisoimaan alaonttolaskimon (IVC:n).
+
+Subkostaaliprojektion "tilttauksia" käsitelty lisää luvussa \@ref(icvmittaus).
+
+Subkostaalisesti voidaan tarkastella Kuvassa \@ref(fig:subkprojektio) esitellyn projektion ohella muitakin näkymiä sydämen eri lokeroista. Suosittelen [tästä linkistä löytyvää](https://www.youtube.com/watch?v=3y15C3mYocA) erinomaista GE HealthCaren ja prof. Thomas Binderin videota näistä projektioista. Suosittelen myös YouTube-kanavan BASIC Critical Care Ultrasound [tästä linkistä](https://www.youtube.com/watch?v=MXCvktFy72E) löytyvää videota, jossa esitellään lisäksi subkostaalinen lyhyen akselin projektio.
+
+
+<br />
+
+
+(ref:subkprojektio) Subkostaaliprojektio.
+
+```{r subkprojektio, out.width = '100%', echo=FALSE,fig.cap="(ref:subkprojektio)"}
+ knitr::include_graphics("images/subcostal_and_body.png")
+```
+
+
 
 
 <br/>

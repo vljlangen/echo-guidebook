@@ -2,9 +2,9 @@
 
 ## M-moodi
 
-Jos näkyvyys on hyvä ja tutkittavan sydämen asento kuvaustekniikkaa ajatellen sopiva (Fig. \@ref(fig:mmoodimallikuva)), saadaan M-moodimittauksella nopeasti paljon hyödyllistä tietoa tutkittavan sydämestä.
+Jos näkyvyys on hyvä ja tutkittavan sydämen asento kuvaustekniikkaa ajatellen sopiva (Kuva \@ref(fig:mmoodimallikuva)), saadaan M-moodimittauksella nopeasti paljon hyödyllistä tietoa tutkittavan sydämestä.
 
-M-moodin aikaansaamiseksi ja sillä mittausten tekemiseksi tarvitaan alla olevassa kuvassa osoitettuja nappuloita (Fig. \@ref(fig:ukglaitemmode)).
+M-moodin aikaansaamiseksi ja sillä mittausten tekemiseksi tarvitaan alla olevassa kuvassa osoitettuja nappuloita (Kuva \@ref(fig:ukglaitemmode)).
 
 <br />
 
@@ -19,9 +19,9 @@ M-moodin aikaansaamiseksi ja sillä mittausten tekemiseksi tarvitaan alla olevas
 
 ## Hae hyvä PSLAX
 
-UKG-laite käynnistyy tavanomaisessa 2D-moodissa. Kyseisessä moodissa aivan ensimmäiseksi haetaan sydämestä hyvä PSLAX-projektio (Fig. \@ref(fig:mmoodimallikuva)). Heikkotasoista kuvaa ei pysty käyttämään luotettavasti M-moodimittauksiin.
+UKG-laite käynnistyy tavanomaisessa 2D-moodissa. Kyseisessä moodissa aivan ensimmäiseksi haetaan sydämestä hyvä PSLAX-projektio (Kuva \@ref(fig:mmoodimallikuva)). Heikkotasoista kuvaa ei pysty käyttämään luotettavasti M-moodimittauksiin.
 
-Tämän jälkeen valitaan sopiva leikkauslinja liikuttelemalla kursoria UKG-laitteen ***pallohiirellä*** (track ball). Tarkasteltava leikkauslinja asetetaan siten, että se katkaisee kohtisuorasti vasemman kammion heti mitraaliläpän avautuvien purjeiden kärkien distaalipuolelta (Fig. \@ref(fig:mmoodimallikuva)).
+Tämän jälkeen valitaan sopiva leikkauslinja liikuttelemalla kursoria UKG-laitteen ***pallohiirellä*** (track ball). Tarkasteltava leikkauslinja asetetaan siten, että se katkaisee kohtisuorasti vasemman kammion heti mitraaliläpän avautuvien purjeiden kärkien distaalipuolelta (Kuva \@ref(fig:mmoodimallikuva)).
 
 
 <br />
@@ -38,7 +38,7 @@ Tämän jälkeen valitaan sopiva leikkauslinja liikuttelemalla kursoria UKG-lait
 
 ## Ongelmana pysty sydän
 
-Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysydan)), M-moodi ei katkaise vasenta kammiota kohtisuoraan, jolloin tuloksena on **liian vino leike vasemmasta kammiosta**. Tämä mm. yliarvioi vasemman kammion poikkimittaa. Jos kunnollista kohtisuoraa leikettä ei saa aikaiseksi, ei kannata haaskata aikaa M-moodin kanssa vaan käyttää esimerkiksi 2D-kuvasta tehtävää LVEF:n mittausta, joka on kuvattu jäljempänä alaluvussa \@ref(lvef2d).
+Jos **sydämen asento** on tutkittavalla kovin **pysty** (Kuva \@ref(fig:pystysydan)), M-moodi ei katkaise vasenta kammiota kohtisuoraan, jolloin tuloksena on **liian vino leike vasemmasta kammiosta**. Tämä mm. yliarvioi vasemman kammion poikkimittaa. Jos kunnollista kohtisuoraa leikettä ei saa aikaiseksi, ei kannata haaskata aikaa M-moodin kanssa vaan käyttää esimerkiksi 2D-kuvasta tehtävää LVEF:n mittausta, joka on kuvattu jäljempänä alaluvussa \@ref(lvef2d).
 
 <br />
 
@@ -55,7 +55,7 @@ Jos **sydämen asento** on tutkittavalla kovin **pysty** (Fig. \@ref(fig:pystysy
 
 Jos riittävän laadukas PSLAX-projektio ja sopiva katkaisulinja on saatu näkyviin, painetaan UKG-laitteesta nappulaa ***M-mode***.
 
-M-moodi saa rullata eteenpäin, ja jos näkymä näyttää teknisesti riittävän laadukkaalta mittauksia varten, kuva pysäytetään UKG-laitteen nappulalla ***Freeze*** (Fig. \@ref(fig:mmoodiperusnakyma)).
+M-moodi saa rullata eteenpäin, ja jos näkymä näyttää teknisesti riittävän laadukkaalta mittauksia varten, kuva pysäytetään UKG-laitteen nappulalla ***Freeze*** (Kuva \@ref(fig:mmoodiperusnakyma)).
 
 Varsinaiset mittaukset pysäytetystä kuvasta tehdään valitsemalla aina ensin mitattava suure (esim. vasemman kammion poikkimitta diastolessa jne.) nappulaa ***Calc*** painamalla avautuvista valikoista. Tästä kerrotaan tarkemmin jäljempänä.
 
@@ -76,7 +76,7 @@ Oikea kammio (RV) hyvin harvoin mitataan tässä yhteydessä ja projektiossa, mu
 
 UKG-laitteen ***Calc***-nappulasta löytyy valikon ***Main Menu*** alta valikko ***Dimensions***. Valitse se, ja edelleen ***RVIDd (MM)***. Valinnat ja itse mittaus kuvasta tehdään pallohiirellä ja hiiren vasemmalla nappulalla.
 
-Mittaa RV alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmoderv)).
+Mittaa RV alla olevan esimerkkikuvan mukaisesti (Kuva \@ref(fig:mmoderv)).
 
 
 <br />
@@ -89,7 +89,7 @@ Mittaa RV alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmoderv)).
 
 <br />
 
-**Huom! Älä mittaa "veren päältä veren päälle" (siis mustan signaalin päältä mustan päälle) tässä tai muussakaan yhteydessä, vaan kudoksen signaalista (harmaasta) seuraavaan (ks. Fig. \@ref(fig:mmodervmagnified) ja Fig. \@ref(fig:mmodervmagnified2) alla).**
+**Huom! Älä mittaa "veren päältä veren päälle" (siis mustan signaalin päältä mustan päälle) tässä tai muussakaan yhteydessä, vaan kudoksen signaalista (harmaasta) seuraavaan (ks. Kuva \@ref(fig:mmodervmagnified) ja Kuva \@ref(fig:mmodervmagnified2) alla).**
 
 <br />
 
@@ -117,7 +117,7 @@ Mittaa RV alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmoderv)).
 
 Yleisimmin mittaus aloitetaan nimenomaan kammioseptumista (IVS:sta) eli valitsemalla ensin ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> IVSd (MM)***. Jos kuitenkin aloitit mittaamalla RV:n, UKG-laite siirtyy automaattisesti IVSd MM:n kohdalle.
 
-Mittaa IVS alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodeivs)).
+Mittaa IVS alla olevan esimerkkikuvan mukaisesti (Kuva \@ref(fig:mmodeivs)).
 
 <br />
 
@@ -137,7 +137,7 @@ Jos mittasit edellä IVS:n, UKG-laite siirtyy suoraan vasemman kammion diastolis
 
 Joskus kammioseptum demarkoituu niin huonosti M-moodissa, että tahdot aloittaa M-moodimittaukset suoraan LVIDd:n mittaamisella. Siinä tapauksessa valitaan ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> LVIDd (MM)***, ja jätetään IVSd (ja RVIDd) tässä yhteydessä mittaamatta.
 
-Mittaa LVIDd alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvidd)).
+Mittaa LVIDd alla olevan esimerkkikuvan mukaisesti (Kuva \@ref(fig:mmodelvidd)).
 
 <br />
 
@@ -157,7 +157,7 @@ Jos mittasit edellä LVIDd:n, UKG-laite siirtyy suoraan vasemman kammion takasei
 Muussa tapauksessa voit hakea sen ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> LVPWd (MM)***.
 
 
-Mittaa LVPWd alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvpwd)).
+Mittaa LVPWd alla olevan esimerkkikuvan mukaisesti (Kuva \@ref(fig:mmodelvpwd)).
 
 <br />
 
@@ -177,7 +177,7 @@ Jos mittasit edellä LVPWd:n, UKG-laite siirtyy suoraan vasemman kammion mittauk
 Muussa tapauksessa voit hakea sen ***Calc***-nappulan takaa ***Main Menu --> Dimensions --> LVIDs (MM)***.
 
 
-Mittaa LVIDs alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvids)).
+Mittaa LVIDs alla olevan esimerkkikuvan mukaisesti (Kuva \@ref(fig:mmodelvids)).
 
 <br />
 
@@ -189,7 +189,7 @@ Mittaa LVIDs alla olevan esimerkkikuvan mukaisesti (Fig. \@ref(fig:mmodelvids)).
 
 <br />
 
-PSLAX-projektiossa M-moodissa tehtävistä mittauksista viimeinen on LVIDs-mitta. Tämän mitan saatuaan UKG-laite laskee ja ilmaisee "jakoviivan" alla keskeisiä laskennallisia suureita (ks. alla Fig. \@ref(fig:mmodelvidsmagnified)), joita ovat EDV, EF, ESV, FS, IVS/LVPW sekä LV Mass (Cubed).
+PSLAX-projektiossa M-moodissa tehtävistä mittauksista viimeinen on LVIDs-mitta. Tämän mitan saatuaan UKG-laite laskee ja ilmaisee "jakoviivan" alla keskeisiä laskennallisia suureita (ks. alla Kuva \@ref(fig:mmodelvidsmagnified)), joita ovat EDV, EF, ESV, FS, IVS/LVPW sekä LV Mass (Cubed).
 
 **Turun seudulla on tyypillistä ilmaista laskennallisista suureista tässä yhteydessä itse mittojen lisäksi vain EF.**
 
@@ -220,7 +220,7 @@ Huomaa, että mitat ilmaistaan tässä yhteydessä millimetreissä, ilman yksik�
 
 ## LVEF:n 2D-mittaus{#lvef2d}
 
-Jos sopivaa leikkauslinjaa laadukasta M-moodia varten ei saada näkyviin, mikään ei estä mittaamasta vasemman kammion läpimittaa diastolessa ja systolessa suoraan 2D-kuvasta  (Fig. \@ref(fig:2defmittaus)).
+Jos sopivaa leikkauslinjaa laadukasta M-moodia varten ei saada näkyviin, mikään ei estä mittaamasta vasemman kammion läpimittaa diastolessa ja systolessa suoraan 2D-kuvasta  (Kuva \@ref(fig:2defmittaus)).
 
 Heti kun nämä mittaukset on tehty rakenteisesti, UKG-laite ilmoittaa vasemman kammion ejektiofraktion.
 

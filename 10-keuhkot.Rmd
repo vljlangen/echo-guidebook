@@ -2,11 +2,24 @@
 
 ## Pleuraneste
 
-Suosittelen arvioimaan pleuranesteen määrää laittamalla anturin pystysuoraan asentoon keskiaksillaarilinjaan potilaan kylkeen. On mielestäni tärkeää pitää anturin markkeri aina osoittamassa kohti kainaloa, jolloin maksa näkyy kuvan vasemmassa laidassa ja keuhkot kuvan oikeassa laidassa - tällöin kuvan tulkinnassa ei ole koskaan vaikeuksia.
+Suosittelen arvioimaan pleuranesteen määrää laittamalla anturin pystysuoraan asentoon keskiaksillaarilinjaan potilaan kylkeen. On mielestäni tärkeää pitää anturin markkeri aina osoittamassa kohti kainaloa  (Kuva \@ref(fig:pleuralus)), jolloin maksa näkyy kuvan vasemmassa laidassa ja keuhkot kuvan oikeassa laidassa - tällöin kuvan tulkinnassa ei ole koskaan vaikeuksia.
+
+
+
+<br />
+
+(ref:pleuralus) Alaonttolaskimon (IVC:n) mittaaminen Caliper-nappulalla.
+
+```{r pleuralus, out.width = '100%', echo=FALSE, fig.cap="(ref:pleuralus)", fig.margin = TRUE}
+ knitr::include_graphics("images/pleural_us2.png")
+```
+
+<br />
+
 
 Keuhkokudoksen erottaa muista kudoksista helposti, koska keuhkoissa usein näkyy muutama komeetta (B-viiva), näistä lisää alempana. B-viivoja et sen sijaan löydä esim. maksasta.
 
-Jos ajatuksissa on pleuranesteen punktointi syystä tai toisesta, keuhkojen etäisyyttä pistopaikasta kannattaa arvioida Caliper-nappulalla (ks. kuva 8.1 alla). Suosittelen perehtymään kirjallisuuteen - ja ennen kaikkea konsultoimaan senioria - koskien turvallista pistomarginaalia.
+Jos ajatuksissa on pleuranesteen punktointi syystä tai toisesta, keuhkojen etäisyyttä pistopaikasta kannattaa arvioida Caliper-nappulalla (Kuva \@ref(fig:keuhkot)). Suosittelen perehtymään kirjallisuuteen - ja ennen kaikkea konsultoimaan senioria - koskien turvallista pistomarginaalia.
 
 Huom! Jos otaksut potilaalla olevan pleuranesteylimäärää mutta et löydäkään sitä kaikukuvauslaitteella, anturi kannattaa sijoittaa aivan posteriorisesti, käytännössä niin, että se koskee jo lakanaa. Potilaan ollessa selinmakuulla pleuraneste näet hakeutuu posteriorisesti maan vetovoiman vuoksi.
 
@@ -23,7 +36,7 @@ Huom! Jos otaksut potilaalla olevan pleuranesteylimäärää mutta et löydäkä
 
 ## B-viivat
 
-Itse keuhkokudoksen kosteus päätellään B-viivoista. Ne ovat keuhkojen kaikukuvauksessa esiintyviä, pyrstötähdeltä näyttäviä artefaktoja, joita kliinikko voi hyödyntää diagnostiikassa. B-viivoilla on useita kriteerejä, seuraavassa niistä muutamia:
+Itse keuhkokudoksen kosteus päätellään B-viivoista. Ne ovat keuhkojen kaikukuvauksessa esiintyviä, pyrstötähdeltä näyttäviä artefaktoja, joita kliinikko voi hyödyntää diagnostiikassa (Kuva \@ref(fig:bviivat)). B-viivoilla on useita kriteerejä, seuraavassa niistä muutamia:
 
 - näyttävät pyrstötähdiltä (komeetoilta) ja ovat vertikaalisia (ei horisontaalisia)
 - liikkuvat puolelta toiselle viskeraali- ja parietaalipleuran liukuessa toisiaan vastaan (kutsun itse tätä ilmiötä siten, että B-viivat ovat "kuin tuulilasinpyyhkijöitä")

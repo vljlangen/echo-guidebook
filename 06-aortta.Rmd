@@ -4,7 +4,7 @@
 
 Aloittelija voi yrittää painaa mieleensä lukeman 4 cm - yleisesti ottaen **aortan tyvi ei saisi olla yli 4 cm leveä**.
 
-Mittaus suoritetaan kätevimmin UKG-laitteen 2D-kuvasta **Caliper-painikkeella** PSLAX-projektiossa. Lisäksi tarvitset hiiren vasenta painiketta sekä Print-painiketta (Fig. \@ref(fig:caliper)).
+Mittaus suoritetaan kätevimmin UKG-laitteen 2D-kuvasta **Caliper-painikkeella** PSLAX-projektiossa. Lisäksi tarvitset hiiren vasenta painiketta sekä Print-painiketta (Kuva \@ref(fig:caliper)).
 
 <br />
 
@@ -20,7 +20,7 @@ Mittaus suoritetaan kätevimmin UKG-laitteen 2D-kuvasta **Caliper-painikkeella**
 
 Jos ilmaisee vain yhden mitan aortasta, se on käytännössä aina aortan tyvi, ja se merkitään varsin yleisesti pelkällä **lyhenteellä "Ao" lausuntoon**.
 
-Mitataksesi aortan tyven, pysäytä ensin liikkuva 2D-kuva **Freeze**-painikkeella. Liikuta pallohiirellä pysäytettyä kuvasarjaa siten, että aorttaläppä sulkeutuu kiinni. Tämän jälkeen ensimmäinen Valsalvan sinus merkitään hiiren vasemmalla painikkeella, toinen suoraan Print-painikkeella, jolloin sinusten väliin jäävä jana tulee mitatuksi ja tulostetuksi (Fig. \@ref(fig:aortantyvi)).
+Mitataksesi aortan tyven, pysäytä ensin liikkuva 2D-kuva **Freeze**-painikkeella. Liikuta pallohiirellä pysäytettyä kuvasarjaa siten, että aorttaläppä sulkeutuu kiinni. Tämän jälkeen ensimmäinen Valsalvan sinus merkitään hiiren vasemmalla painikkeella, toinen suoraan Print-painikkeella, jolloin sinusten väliin jäävä jana tulee mitatuksi ja tulostetuksi (Kuva \@ref(fig:aortantyvi)).
 
 
 <br />
@@ -45,7 +45,7 @@ Tulet näkemään, että monet kollegat käyttävät yhä M-moodia aortan tyven 
 
 Koskien aortan mittojen raportointia kokemukseni on seuraava: jos Turun seudulla tehdyssä UKG:ssa käytetään termiä Ao, tällä kuvataan yleensä nimenomaan aortan tyveä. Tätä seuraa toisinaan - mutta ei suinkaan aina - muita aortan mittoja. Jos raportoit lausunnossasi useita aortan dimensioita, voi olla viisainta ettet käytä lyhennettä Ao ollenkaan vaan purat tuon lyhenteen auki muotoon "aortan tyvi".
 
-Alan kattojärjestöt [ASE ja EACVI painottavat](https://www.asecho.org/guideline/recommendations-for-cardiac-chamber-quantification-by-echocardiography-in-adults-an-update-from-the-american-society-of-echocardiography-and-the-european-association-of-cardiovascular-imaging/), että ainoastaan aortan annuluksen mittaus suoritetaan keskisystolessa (Fig. \@ref(fig:annulus)), kaikki muut mitat loppudiastolessa (Fig. \@ref(fig:stj)). (Tosin aortan kaaren mittauksesta en ole löytänyt/lukenut näiden kattojärjestöjen suosituksia, joten en ole kiinnittänyt systole vs. diastole -kysymykseen suurta huomiota tuossa.)
+Alan kattojärjestöt [ASE ja EACVI painottavat](https://www.asecho.org/guideline/recommendations-for-cardiac-chamber-quantification-by-echocardiography-in-adults-an-update-from-the-american-society-of-echocardiography-and-the-european-association-of-cardiovascular-imaging/), että ainoastaan aortan annuluksen mittaus suoritetaan keskisystolessa (Kuva \@ref(fig:annulus)), kaikki muut mitat loppudiastolessa (Kuva \@ref(fig:stj)). (Tosin aortan kaaren mittauksesta en ole löytänyt/lukenut näiden kattojärjestöjen suosituksia, joten en ole kiinnittänyt systole vs. diastole -kysymykseen suurta huomiota tuossa.)
 
 <br />
 <br />

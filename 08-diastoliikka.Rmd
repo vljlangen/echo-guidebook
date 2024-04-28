@@ -23,7 +23,7 @@ Jos tutkittava on sinusrytmissä, nähdään diastolessa mitraaliläpän avautue
 2) Sitten **A-aalto** (tulee sanasta *atrium*)
    - virtaus syntyy vasemman eteisen supistuessa ja työntäessä verta vasempaan kammioon
 
-Mitraalisisäänvirtauksen mittaus pulssidopplerilla on kuvattu alla (Fig. \@ref(fig:diastoliikkapw)).
+Mitraalisisäänvirtauksen mittaus pulssidopplerilla on kuvattu alla (Kuva \@ref(fig:diastoliikkapw)).
 
 ***Huom. Jos tutkittava on eteisvärinässä, vasemmassa eteisessä ei ole kunnon supistelua vaan kaoottista värinää, jolloin A-aaltoa ei nähdä.***
 
@@ -48,7 +48,7 @@ Mitraalisisäänvirtauksen mittaus pulssidopplerilla on kuvattu alla (Fig. \@ref
 ## E- ja A-aallot: tulkinta
 
 
-Keskeisimmät mittaukset E- ja A-aalloista ovat kummankin aallon huippukohdat, jotka edustavat vastaavien verenvirtauksien maksiminopeuksia. Näistä nopeuksista - ja niiden keskinäisestä suhteesta - pystyy tekemään seuraavia päätelmiä sydämen diastolisesta toiminnasta (Fig. \@ref(fig:mitraalisisaanvirtaus)):
+Keskeisimmät mittaukset E- ja A-aalloista ovat kummankin aallon huippukohdat, jotka edustavat vastaavien verenvirtauksien maksiminopeuksia. Näistä nopeuksista - ja niiden keskinäisestä suhteesta - pystyy tekemään seuraavia päätelmiä sydämen diastolisesta toiminnasta (Kuva \@ref(fig:mitraalisisaanvirtaus)):
 
 1. Nuorilla terveillä tutkittavilla E-aalto on suurempi kuin A-aalto
    - E/A-suhde > 1.0
@@ -74,7 +74,7 @@ Keskeisimmät mittaukset E- ja A-aalloista ovat kummankin aallon huippukohdat, j
 
 
 
-Koska yllä mainitut skenaariot 1 ja 3 muistuttavat visuaalisesti toisiaan  (Fig. \@ref(fig:mitraalisisaanvirtaus)), aloitteleva ekkoaja voi pohtia, että eikö tästä aiheudu huomattavia vaikeuksia päätellä, onko sydämen diastolinen toiminta täysin normaalia vaiko hyvinkin epänormaalia. Käytännössä kokeneemmalla ekkoajalla on harvemmin vaikeuksia normaalin ja pseudonormaalin mitraalisisäänvirtauksen erottamisessa toisistaan. Potilaan ikä ja UKG-tutkimuksessa tehtävät muut havainnot auttavat erottamaan nämä skenaariot toisistaan.
+Koska yllä mainitut skenaariot 1 ja 3 muistuttavat visuaalisesti toisiaan  (Kuva \@ref(fig:mitraalisisaanvirtaus)), aloitteleva ekkoaja voi pohtia, että eikö tästä aiheudu huomattavia vaikeuksia päätellä, onko sydämen diastolinen toiminta täysin normaalia vaiko hyvinkin epänormaalia. Käytännössä kokeneemmalla ekkoajalla on harvemmin vaikeuksia normaalin ja pseudonormaalin mitraalisisäänvirtauksen erottamisessa toisistaan. Potilaan ikä ja UKG-tutkimuksessa tehtävät muut havainnot auttavat erottamaan nämä skenaariot toisistaan.
 
 ***Tärkeintä on mielestäni muistaa, että jos iäkkäällä henkilöllä näkee "normaalin" E/A-suhteen, se harvemmin jos koskaan on oikeasti normaali. Iäkkäillä tutkittavilla on käytännössä aina joko käänteinen mitraalisisäänvirtaus (skenaario 2 yllä) tai pseudonormaali mitraalisisäänvirtaus (skenaario 3 yllä). Jostain syystä tätä yksinkertaista muistisääntöä ei painoteta kirjallisuudessa.***
 
@@ -85,7 +85,7 @@ Koska yllä mainitut skenaariot 1 ja 3 muistuttavat visuaalisesti toisiaan  (Fig
 
 Perinteisellä dopplerilla tehdään mittauksia veren virtauksista sydämessä. Kudosdopplerilla (TDI) sen sijaan tarkastellaan myokardiumin nopeuksia.
 
-Diastoliikkaa arvioitaessa kursori viedään pallohiirellä mitraaliläppärenkaan heti lateraalipuolelle vasemman kammion ja vasemman eteisen väliselle myokardiumin alueelle. UKG-laitteesta painetaan painiketta TDI ja heti perään painiketta PW. Täten tarkasteltuna nähdään kudosdopplerilla E- ja A-aalto ikään kuin käänteisinä, alaspäin suuntautuvina (Fig. \@ref(fig:diastoliikkatdi)). Näitä kutsutaan E'- ja A'-aalloiksi tässä yhteydessä (lausutaan englanniksi "E prime" ja "A prime").
+Diastoliikkaa arvioitaessa kursori viedään pallohiirellä mitraaliläppärenkaan heti lateraalipuolelle vasemman kammion ja vasemman eteisen väliselle myokardiumin alueelle. UKG-laitteesta painetaan painiketta TDI ja heti perään painiketta PW. Täten tarkasteltuna nähdään kudosdopplerilla E- ja A-aalto ikään kuin käänteisinä, alaspäin suuntautuvina (Kuva \@ref(fig:diastoliikkatdi)). Näitä kutsutaan E'- ja A'-aalloiksi tässä yhteydessä (lausutaan englanniksi "E prime" ja "A prime").
 
 E'-aallon voi mitata myös mitraaliläpän mediaaliannuluksesta, mutta yksinkertaistuksen vuoksi esittelen tässä oppaassa vain lateraalisen mittaustekniikan.
 
@@ -110,7 +110,7 @@ Huom. Jos tutkittava on eteisvärinässä, jälleenkään A-aaltoa (tai kudosdop
 
 ## TDI:n tulkinta
 
-E- ja A-aaltojen tulkintaa käsiteltiin yllä (Fig. \@ref(fig:mitraalisisaanvirtaus)). 
+E- ja A-aaltojen tulkintaa käsiteltiin yllä (Kuva \@ref(fig:mitraalisisaanvirtaus)). 
 
 Kun sekä E- että E'-aalto on mitattu rakenteisesti (Calc-nappulan avulla nimetysti), UKG-kone laskee automaattisesti E/Lat E' -suhteen.
 

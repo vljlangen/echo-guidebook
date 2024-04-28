@@ -1,6 +1,6 @@
 # UKG-laitteen nappulat
 
-Alla näkyvässä kuvassa (Fig. \@ref(fig:ukglaite)) esitellään UKG-laitteen Philips CX50 keskeisimmät nappulat ja niiden toiminnot allekirjoittaneen arvioimassa tärkeysjärjestyksessä.
+Alla näkyvässä Kuvassa \@ref(fig:ukglaite) esitellään UKG-laitteen Philips CX50 keskeisimmät nappulat ja niiden toiminnot allekirjoittaneen arvioimassa tärkeysjärjestyksessä.
 
 ***Huom! Nappuloita ei tarvitse opetella ulkoa tässä yhteydessä - ne käsitellään myöhemmin kunkin esiteltävän toiminnon yhteydessä tässä oppaassa.***
 

@@ -1,4 +1,4 @@
-# Caliper vs. Calc
+# Caliper vs. Calc{#caliper}
 
 Olen vuosien varrella havainnut, että aloittelevilla ekkoajilla voi olla pitkäänkin vaikeuksia erottaa seuraavat kaksi mittaustapaa toisistaan:
 

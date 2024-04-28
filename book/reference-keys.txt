@@ -93,3 +93,12 @@ lvotn-läpimitta
 cw-mittaus-aorttaläpän-yli
 pw-mittaus-lvotsta
 AVA
+fig:pleuralus
+fig:ivcmittauspaikka
+mittauspaikka
+fig:subkostaaliprojektio
+subkostaaliprojektio
+icvmittaus
+fig:subkprojektio
+calipervscalc
+caliper
