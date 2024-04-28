@@ -12,9 +12,9 @@ Eritoten parasternaalinen pitkittäiskuva (PSLAX) ja poikittaiskuva (PSAX) ovat 
 
 ## Väridoppler
 
-Jos verenvirtauksen tiellä ei ole rajoitteita kuten aorttastenoosia,  väridopplerin signaali kuvautuu yksivärisenä (laminaarinen virtaus).
+Jos verenvirtauksen tiellä ei ole rajoitteita kuten aorttastenoosia,  väridopplerin signaali kuvautuu yksivärisenä (laminaarinen virtaus). Tämä on kuvattu hienosti 123sonographyn YouTube-videossa, jonka löydät [tästä linkistä](https://www.youtube.com/watch?v=uJ5mtdqo1So).
 
-Jos veri kulkeutuu ahtautuneen kanavan läpi, nähdään mosaiikkimainen väridopplerin signaali, jossa keltaiset värit korostuvat (turbulentti virtaus).
+Jos veri kulkeutuu ahtautuneen kanavan läpi, nähdään mosaiikkimainen väridopplerin signaali, jossa keltaiset värit korostuvat (turbulentti virtaus). Esimerkki tästä voidaan nähdä Mayo Clinicin YouTube-videossa noin kohdassa 1:55, [tässä linkki kyseiseen videoon](https://www.youtube.com/watch?v=tDloJNmdhuk).
 
 Aina kun aorttaläppäpositiossa nähdään turbulentti virtaus, tulee epäillä aorttastenoosia.
 
