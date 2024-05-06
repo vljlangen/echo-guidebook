@@ -1,5 +1,5 @@
 ---
-title: "UKG:n suoritus - esimerkkinä Philips CX50 -laitteen toiminnot"
+title: "UKG-opas"
 author: "Ville Langén"
 #site: bookdown::bookdown_site
 documentclass: book
@@ -12,13 +12,15 @@ site: bookdown::bookdown_site
 
 # Alkusanat
 
-Tässä oppaassa käsitellään UKG:n suoritusta Philips CX50 -laitteella. Periaatteet ovat kuitenkin samat kaikissa UKG-laitteissa, joten oppi on varsin universaalia. Kun oppii käyttämään yhtä UKG-laitetta, osaa perustoiminnot kaikissa eri laitteissa, jopa laitteen valmistajasta riippumatta.
+Tässä oppaassa esitellään UKG:n perusteita, mitä tulee esimerkiksi eri projektioiden (kuvakulmien) hakemiseen sydämestä ja erilaisten mittausten suorittamiseen kaikukuvauslaitteella. Opas on suunnattu ennen kaikkea vasta-alkajille - esimerkiksi lääkäreille, jotka ovat kiinnostuneita oppimaan UKG:n tekoa itse tai tulkitsemaan UKG:lla tehtyjä mittauksia.
 
-Isoja valmistajia on kaksi: Philips ja GE. Usein on niin, että kaikki sairaalan tai ainakin tulosalueen UKG-laitteet ovat jommankumman näistä valmistamia. Kummankin firman laitteilla on omat hyvät puolensa ja omat kannattajansa.
+Mittaustoiminnot esitellään oppaassa Philips CX50 -laitteen nappuloilla ja valikoilla suoritettuina. Periaatteet ovat kuitenkin samat kaikissa UKG-laitteissa, joten esitellyt mittaukset ovat pitkälti universaaleja. Kun oppii käyttämään yhtä UKG-laitetta, osaa perustoiminnot kaikissa eri laitteissa, jopa laitteen valmistajasta riippumatta.
+
+Isoja valmistajia on kaksi: Philips ja GE. Usein on niin, että kaikki sairaalan tai ainakin tulosalueen UKG-laitteet ovat jommankumman näistä valmistamia. Kummankin firman laitteilla on omat vahvuutensa ja omat kannattajansa.
 
 UKG:n suorittamisessa esiintyy alueellisia eroja jopa Suomen sisällä, mihin olen pyrkinyt kiinnittämään jonkun verran huomiota tässä oppaassa. Jopa lyhenne "UKG", jolla viitataan ytimekkäästi sydämen kaikukuvaukseen Turun alueella, ei ole käytössä kuin osassa Suomea. (Pohjoisempaan mentäessä kardiologikollegat käyttävät kuulemma termiä "ekko".)
 
-Opas on suunnattu eritoten aloitteleville ekkoajille. Sisältö perustuu allekirjoittaneen kokemuksiin osasto- ja poliklinikkatyön kentältä. Tarjoan oppaassa omia näkemyksiäni siitä, miten UKG:n eri osa-alueet on helpointa ymmärtää ja oppia. Erikseen on joissakin kohdissa lähdeviittauksia muiden tieteellisiin julkaisuihin.
+Oppaan sisältö perustuu allekirjoittaneen kokemuksiin osasto- ja poliklinikkatyön kentältä. Tarjoan oppaassa omia näkemyksiäni siitä, miten UKG:n eri osa-alueet on helpointa ymmärtää ja oppia. Erikseen on joissakin kohdissa lähdeviittauksia tieteellisiin julkaisuihin.
 
 Opasta ei tarvitse lukea kronologisesti - lue se, minkä tarvitset, ja jätä muu huomiotta.
 
