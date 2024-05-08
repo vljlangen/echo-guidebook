@@ -59,7 +59,6 @@ Apikaalisesta projektiosta - jota joskus myös kärkikuvaksi kutsutaan - kuvataa
 
 Tätä nelilokeroprojektion kuvantamistapaa voidaan suositella, koska se on yleismaailmallinen, ja koska kehittyneempien kaikukuvauslaitteiden automaattitoiminnot on suunniteltu tälle kuvaustavalle.
 
-
 <br />
 
 
@@ -75,7 +74,7 @@ Tätä nelilokeroprojektion kuvantamistapaa voidaan suositella, koska se on ylei
 
 Jos sen sijaan "nypy" suunnataankin tutkittavan kehon keskiviivaa kohti, vasen kammio piirtyy kuva-alassa vasemmalle. Tällöin "vasen näkyy vasemmalla ja oikea oikealla".
 
-Kumpaakin nelilokeroprojektion kuvaustapaa - sekä standardia että vaihtoehtoista - voidaan käyttää ja käytetäänkin meillä ja muualla ekkoajien omien kuvausmieltymysten mukaan.
+Kumpaakin nelilokeroprojektion kuvaustapaa - sekä standardia että vaihtoehtoista - voidaan käyttää ja käytetäänkin meillä ja muualla ekkoajien omien kuvausmieltymysten mukaan. Olen itse noudattanut tätä vaihtoehtoista tapaa tottumussyistä, minkä vuoksi tässä oppaassa useat havainnekuvat on esitetty tämän vaihtoehtoisen kuvaustavan näkökulmasta.
 
 <br />
 
