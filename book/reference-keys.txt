@@ -4,8 +4,8 @@ fig:caliperjacalc
 fig:pslax
 fig:psax
 fig:psaxtaivutuksia
-fig:a4cturku
-fig:a4cpori
+fig:a4cstandardi
+fig:a4cvaihtoehtoinen
 fig:a5c
 fig:subkprojektio
 fig:ukglaitemmode
@@ -50,8 +50,8 @@ projektiot
 pslax
 psax
 a4c
-turun-tapa
-porin-tapa
+standardi-tapa
+vaihtoehtoinen-tapa
 a5c
 subkostaaliprojektio
 vasemman-kammion-mitat

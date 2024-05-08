@@ -53,30 +53,37 @@ Alempana näkyvässä kuvassa \@ref(fig:psaxtaivutuksia) esitellään PSAX-proje
 
 ## A4C
 
-### "Turun tapa"
+### Standardi tapa
 
-Apikaalisesta projektiosta - joka joskus myös kärkikuvaksi kutsutaan - kuvataan nelilokerokuva (A4C, apical four chamber view) . Turun alueella tyypillisimmin anturin "nypy" suunnataan tutkittavan kehon keskiviivaa kohti, jolloin vasen kammio piirtyy kuva-alassa vasemmalle.
+Apikaalisesta projektiosta - jota joskus myös kärkikuvaksi kutsutaan - kuvataan nelilokerokuva (A4C, apical four chamber view). Standardi tapa on suunnata "nypy" lateraalisesti osoittamaan kohti tutkittavan kylkeä, jolloin vasen kammio piirtyy kuva-alassa oikealle - tällöin siis kuvannetaan "vasen oikealle ja oikea vasemmalle".
+
+Tätä nelilokeroprojektion kuvantamistapaa voidaan suositella, koska se on yleismaailmallinen, ja koska kehittyneempien kaikukuvauslaitteiden automaattitoiminnot on suunniteltu tälle kuvaustavalle.
+
 
 <br />
 
 
-(ref:a4cturku) Nelilokerokuva (A4C) Turun malliin.
+(ref:a4cstandardi) Nelilokerokuva (A4C) standardilla tavalla kuvannettuna.
 
-```{r a4cturku, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cturku)"}
- knitr::include_graphics("images/a4c_and_body_turku3.png")
+```{r a4cstandardi, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cstandardi)"}
+ knitr::include_graphics("images/a4c_and_body_standardi.png")
 ```
 
-### "Porin tapa"
 
-Jos sen sijaan "nypy" suunnataankin lateraalisesti osoittamaan kohti tutkittavan kylkeä, vasen kammio piirtyykin kuva-alassa oikealle - näin toimitaan esim. Porin kardiologialla.
+
+### Vaihtoehtoinen tapa
+
+Jos sen sijaan "nypy" suunnataankin tutkittavan kehon keskiviivaa kohti, vasen kammio piirtyy kuva-alassa vasemmalle. Tällöin "vasen näkyy vasemmalla ja oikea oikealla".
+
+Kumpaakin nelilokeroprojektion kuvaustapaa - sekä standardia että vaihtoehtoista - voidaan käyttää ja käytetäänkin meillä ja muualla ekkoajien omien kuvausmieltymysten mukaan.
 
 <br />
 
 
-(ref:a4cpori) Nelilokerokuva (A4C) Porin malliin.
+(ref:a4cvaihtoehtoinen) Nelilokerokuva (A4C) vaihtoehtoisella tavalla kuvannettuna.
 
-```{r a4cpori, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cpori)"}
- knitr::include_graphics("images/a4c_and_body_pori2.png")
+```{r a4cvaihtoehtoinen, out.width = '100%', echo=FALSE, fig.cap="(ref:a4cvaihtoehtoinen)"}
+ knitr::include_graphics("images/a4c_and_body_vaihtoehtoinen.png")
 ```
 
 
