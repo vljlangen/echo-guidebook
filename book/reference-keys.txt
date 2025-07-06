@@ -40,6 +40,10 @@ fig:avgradientti
 fig:lvotdiam
 fig:asavmax
 fig:lvotpw
+fig:tapseaallot
+fig:tapse
+fig:rvd1rvd2
+tab:rvd1rvd2refrange
 alkusanat
 lyhenteet-ja-mittayksiköt
 lyhenteet-ja-mittayksiköt-1
@@ -97,3 +101,9 @@ AVA
 lvotn-läpimitta
 cw-mittaus-aorttaläpän-yli
 pw-mittaus-lvotsta
+oikea-kammio
+tapse
+tapsen-mittaus
+tapsen-viitealue
+läpimitta
+rv-mittojen-viitealueet
