@@ -59,13 +59,13 @@ vaihtoehtoinen-tapa
 a5c
 subkostaaliprojektio
 vasemman-kammion-mitat
-m-moodi
+mmoodi
 hae-hyvä-pslax
 ongelmana-pysty-sydän
 mitattavat-suureet
 rvn-mittaus
 ivsn-mittaus
-lvn-mittaus-diastole
+lvmmoodi
 lvpwn-mittaus
 lvn-mittaus-systole
 lvef2d
@@ -102,7 +102,7 @@ lvotn-läpimitta
 cw-mittaus-aorttaläpän-yli
 pw-mittaus-lvotsta
 oikea-kammio
-tapse
+systolinen-funktio
 tapsen-mittaus
 tapsen-viitealue
 läpimitta

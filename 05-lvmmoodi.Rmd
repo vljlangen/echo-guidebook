@@ -1,6 +1,6 @@
 # Vasemman kammion mitat
 
-## M-moodi
+## M-moodi{#mmoodi}
 
 Jos näkyvyys on hyvä ja tutkittavan sydämen asento kuvaustekniikkaa ajatellen sopiva (Kuva \@ref(fig:mmoodimallikuva)), saadaan M-moodimittauksella nopeasti paljon hyödyllistä tietoa tutkittavan sydämestä.
 
@@ -131,7 +131,7 @@ Mittaa IVS alla olevan esimerkkikuvan mukaisesti (Kuva \@ref(fig:mmodeivs)).
 
 
 
-### LV:n mittaus (diastole)
+### LV:n mittaus (diastole){#lvmmoodi}
 
 Jos mittasit edellä IVS:n, UKG-laite siirtyy suoraan vasemman kammion diastolisen mitan (LVIDd) kohdalle.
 

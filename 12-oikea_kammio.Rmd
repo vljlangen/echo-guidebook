@@ -1,10 +1,10 @@
 # Oikea kammio
 
-Tässä kappaleessa tarkastellaan oikean kammion (RV) läpimitan ja systolisen funktion määrittämistä.
+Tässä kappaleessa tarkastellaan oikean kammion (RV) systolisen funktion ja läpimitan määrittämistä.
 
-## TAPSE
+## Systolinen funktio
 
-Edellä kappaleessa 6.5 opetettiin vasemman kammion basaalisen ejektiofraktion mittaaminen M-moodilla. Kyseisessä mittaustavassa hyödynnetään yksinkertaistusta, jonka mukaan ***vasen kammio supistuu ennen kaikkea vaakasuunnassa***.
+Edellä luvussa \@ref(mmoodi) käsiteltiin vasemman kammion basaalisen ejektiofraktion mittaamista [M-moodilla](#lvmmoodi) ja [2D-mittauksilla](#lvef2d). Kyseisissä mittauksissa hyödynnettiin yksinkertaistusta, jonka mukaan ***vasen kammio supistuu ennen kaikkea vaakasuunnassa***.
 
 Oikean kammion kohdalla voidaan hyödyntää päinvastaista yksinkertaistusta, jonka mukaan ***oikea kammio supistuu ennen kaikkea pystysuunnassa***. Tätä ajattelutapaa noudattaen oikean kammion systolisesta funktiosta voidaankin saada käsitys mittaamalla trikuspidaaliläppärenkaan lateraalinurkan pystysuuntaisen liikkeen amplitudi. Tästä suureesta käytetään nimitystä **TAPSE** (*tricuspid annular plane systolic excursion*) (Kuva \@ref(fig:tapseaallot)).
 
