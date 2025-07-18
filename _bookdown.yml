@@ -1,4 +1,5 @@
 output_dir: "book"
+chapter_name: "Luku "
 language:
   label:
     fig: 'Kuva '
